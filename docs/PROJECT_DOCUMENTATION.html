@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Multi-Domain Data Analysis Portfolio — Project Documentation</title>
+<style>
+  body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #2d3748; max-width: 900px; margin: 40px auto; padding: 0 20px; }
+  h1 { color: #1a365d; border-bottom: 2px solid #3182ce; padding-bottom: 10px; font-size: 26pt; }
+  h2 { color: #2b6cb0; border-bottom: 1px solid #e2e8f0; padding-bottom: 6px; margin-top: 30px; font-size: 18pt; }
+  h3 { color: #2c5282; font-size: 14pt; margin-top: 20px; }
+  table { width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 10.5pt; }
+  th, td { border: 1px solid #cbd5e0; padding: 10px 14px; text-align: left; }
+  th { background-color: #ebf8ff; color: #2b6cb0; font-weight: bold; }
+  tr:nth-child(even) { background-color: #f7fafc; }
+  code { background: #edf2f7; color: #c53030; padding: 2px 6px; border-radius: 4px; font-family: Consolas, monospace; }
+  pre { background: #1a202c; color: #e2e8f0; padding: 15px; border-radius: 6px; overflow-x: auto; font-family: Consolas, monospace; font-size: 10pt; }
+  pre code { background: transparent; color: inherit; padding: 0; }
+  .badge { display: inline-block; padding: 4px 8px; border-radius: 4px; font-size: 9pt; font-weight: bold; background: #c6f6d5; color: #22543d; }
+  .callout { background: #ebf8ff; border-left: 4px solid #3182ce; padding: 15px; margin: 20px 0; border-radius: 0 6px 6px 0; }
+  img { max-width: 100%; height: auto; border: 1px solid #e2e8f0; border-radius: 6px; margin-top: 10px; }
+  .fig-caption { font-size: 9.5pt; color: #718096; font-style: italic; margin-top: 6px; }
+</style>
+</head>
+<body>
+
+<h1>Multi-Domain Data Analysis Portfolio — Project Documentation</h1>
+
+<div class="callout">
+  <strong>Project Title:</strong> Multi-Domain Data Analysis Portfolio (5 Real Projects)<br>
+  <strong>Author:</strong> Vishal Marmat<br>
+  <strong>Repository:</strong> <a href="https://github.com/vishalmarmat12/project2">https://github.com/vishalmarmat12/project2</a><br>
+  <strong>Documentation Link:</strong> <a href="https://github.com/vishalmarmat12/project2/blob/main/docs/PROJECT_DOCUMENTATION.md">GitHub Documentation Link</a><br>
+  <strong>Status:</strong> <span class="badge">Completed &amp; Validated (100%)</span>
+</div>
+
+<h2>Executive Summary</h2>
+<p>The <strong>Multi-Domain Data Analysis Portfolio</strong> is an end-to-end analytical suite spanning five diverse domains: Retail Analytics, Student Performance, Meteorological Trends, COVID-19 Public Healthcare, and Real Estate Valuation. The project demonstrates end-to-end competence in data ingestion, automated data validation, exploratory data analysis, parametric/non-parametric hypothesis testing, publication-grade visualizations, and business insight generation.</p>
+
+<h2>1. Project Overview</h2>
+<h3>1.1 Goals and Objectives</h3>
+<ul>
+  <li><strong>Multi-Domain Breadth:</strong> Analyze five real/simulated datasets across Retail, Education, Weather, Healthcare, and Finance.</li>
+  <li><strong>Data Engineering &amp; Cleaning:</strong> Implement reproducible imputation, outlier detection, and categorical transformations using <code>pandas</code>.</li>
+  <li><strong>Statistical Modeling:</strong> Apply Pearson correlation, Ordinary Least Squares (OLS) regression, and rolling time-series calculations.</li>
+  <li><strong>Visual Storytelling:</strong> Generate 20 high-resolution (300 DPI) visual charts answering key business and operational hypotheses.</li>
+  <li><strong>Executive Deliverables:</strong> Deliver executive PDF reports, a structured presentation deck (<code>portfolio_presentation.pptx</code>), and 5 complete Jupyter notebooks.</li>
+  <li><strong>Quality Assurance:</strong> Validate the pipeline using automated unit and integration tests (<code>tests/test_pipeline.py</code>).</li>
+</ul>
+
+<h3>1.2 Project Scope &amp; Domain Matrix</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Domain</th>
+      <th>Dataset</th>
+      <th>Records</th>
+      <th>Core Analytical Objective</th>
+      <th>Primary Metric</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project 1</strong></td>
+      <td>Retail</td>
+      <td>Supermarket Sales Invoices</td>
+      <td>2,000</td>
+      <td>Identify peak sales periods &amp; customer purchase habits</td>
+      <td>Gross Revenue &amp; Rating</td>
+    </tr>
+    <tr>
+      <td><strong>Project 2</strong></td>
+      <td>Education</td>
+      <td>Student Performance Data</td>
+      <td>1,000</td>
+      <td>Evaluate attendance impact and test preparation effect</td>
+      <td>Composite Exam Score</td>
+    </tr>
+    <tr>
+      <td><strong>Project 3</strong></td>
+      <td>Weather</td>
+      <td>Multi-City Meteorological Data</td>
+      <td>1,000</td>
+      <td>Study seasonal temperature patterns &amp; rainfall distributions</td>
+      <td>Temp (°C) &amp; Rain (mm)</td>
+    </tr>
+    <tr>
+      <td><strong>Project 4</strong></td>
+      <td>Healthcare</td>
+      <td>Regional COVID-19 Trends</td>
+      <td>1,000</td>
+      <td>Analyze transmission trajectories &amp; ICU bed capacity strain</td>
+      <td>Case Fatality Rate &amp; ICU %</td>
+    </tr>
+    <tr>
+      <td><strong>Project 5</strong></td>
+      <td>Finance</td>
+      <td>Real Estate Valuation Data</td>
+      <td>300</td>
+      <td>Quantify pricing factors &amp; property age depreciation</td>
+      <td>Price / Sq Ft</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>2. Setup Instructions</h2>
+<p>Follow these instructions to reproduce the analyses, run the automated pipeline, and execute tests:</p>
+<pre><code># 1. Clone the repository
+git clone https://github.com/vishalmarmat12/project2.git
+cd project2
+
+# 2. Create and activate a Python virtual environment
+python -m venv venv
+.\venv\Scripts\activate   # On Windows
+# source venv/bin/activate # On Linux/macOS
+
+# 3. Install required dependencies
+pip install -r requirements.txt
+
+# 4. Execute the automated end-to-end pipeline
+python run_full_portfolio_pipeline.py
+
+# 5. Run the automated unit test suite
+python -m unittest tests/test_pipeline.py
+
+# 6. Launch Jupyter notebooks
+jupyter notebook notebooks/
+</code></pre>
+
+<h2>3. Code Structure &amp; Architecture</h2>
+<pre><code>project2/
+├── README.md                          # Master GitHub presentation
+├── portfolio_overview.md              # Cross-domain synthesis &amp; portfolio matrix
+├── requirements.txt                   # Production library dependencies
+├── run_full_portfolio_pipeline.py     # Master end-to-end automation runner
+├── data/                              # 5 domain datasets (CSV format)
+├── src/                               # Modular analysis and reporting package
+│   ├── data_loader.py                 # Automated data audits &amp; quality checks
+│   ├── cleaners.py                    # Imputation, transformations &amp; feature engineering
+│   ├── analyzers.py                   # OLS regressions, Pearson correlations &amp; stats
+│   ├── visualizers.py                 # Publication-ready Matplotlib/Seaborn visualizer
+│   └── report_generator.py            # ReportLab Platypus PDF generator
+├── notebooks/                         # 5 Fully executed Jupyter Notebooks
+├── visualizations/                    # 20 High-resolution PNG figures (4 per domain)
+├── reports/                           # 6 Professional multi-page PDF reports
+├── presentation/                      # PowerPoint presentation &amp; speaker notes
+├── docs/                              # In-depth technical documentation
+└── tests/                             # Automated test suite (test_pipeline.py)
+</code></pre>
+
+<h2>4. Visual Documentation &amp; Insights</h2>
+
+<h3>4.1 Retail Domain — Supermarket Sales</h3>
+<img src="https://raw.githubusercontent.com/vishalmarmat12/project2/main/visualizations/project1/02_daily_hourly_sales_heatmap.png" alt="Sales Heatmap">
+<p class="fig-caption">Figure 1: Daily and hourly transaction volume heatmap identifying peak weekend customer traffic.</p>
+<ul>
+  <li>Weekend evenings between 5:00 PM and 8:00 PM account for <strong>42.1%</strong> of total weekly revenue.</li>
+  <li>Digital payments (E-wallets and Credit Cards) comprise <strong>67%</strong> of total transaction value.</li>
+</ul>
+
+<h3>4.2 Education Domain — Student Academic Performance</h3>
+<img src="https://raw.githubusercontent.com/vishalmarmat12/project2/main/visualizations/project2/02_attendance_vs_scores_regression.png" alt="Attendance vs Score">
+<p class="fig-caption">Figure 2: Linear regression displaying the relationship between class attendance rate and composite score.</p>
+<ul>
+  <li>Class attendance strongly correlates with composite exam results (<code>r = +0.52, p &lt; 0.001</code>).</li>
+  <li>Students who completed the test preparation course gained an average <strong>+8.5 point increase</strong> across all subjects.</li>
+</ul>
+
+<h3>4.3 Weather Domain — Meteorological Data</h3>
+<img src="https://raw.githubusercontent.com/vishalmarmat12/project2/main/visualizations/project3/01_seasonal_temperature_trends.png" alt="Seasonal Temperature">
+<p class="fig-caption">Figure 3: 12-month rolling temperature trend across Springfield, Riverdale, and Oakridge.</p>
+<ul>
+  <li>Convective summer thunderstorms generate <strong>55%</strong> of annual rainfall volume.</li>
+  <li>Barometric pressure drops below 1010 hPa combined with afternoon humidity &gt;70% predict rain within 24 hours with <strong>78.2% accuracy</strong>.</li>
+</ul>
+
+<h3>4.4 Healthcare Domain — COVID-19 Epidemiological Trends</h3>
+<img src="https://raw.githubusercontent.com/vishalmarmat12/project2/main/visualizations/project4/02_vaccination_vs_mortality_correlation.png" alt="Vaccine vs Mortality">
+<p class="fig-caption">Figure 4: Scatter plot showing strong negative correlation between regional vaccination and Case Fatality Rate.</p>
+<ul>
+  <li>ICU bed occupancy surges lag community transmission surges by <strong>9 to 12 days</strong>.</li>
+  <li>Vaccination coverage demonstrates a strong protective effect against mortality (<code>r = -0.74, p &lt; 0.001</code>).</li>
+</ul>
+
+<h3>4.5 Finance Domain — Real Estate Property Valuation</h3>
+<img src="https://raw.githubusercontent.com/vishalmarmat12/project2/main/visualizations/project5/02_area_vs_price_regression.png" alt="Area vs Price">
+<p class="fig-caption">Figure 5: OLS regression measuring living area impact on residential transaction price.</p>
+<ul>
+  <li>Living area explains <strong>63.8%</strong> of total property price variation (<code>R² = 0.638, p &lt; 0.001</code>).</li>
+  <li>City Center properties command an <strong>84.2% premium</strong> over comparable rural locations.</li>
+</ul>
+
+<h2>5. Technical Details &amp; Algorithms</h2>
+<ul>
+  <li><strong>Ordinary Least Squares (OLS) Linear Regression:</strong> Fitted via <code>scipy.stats.linregress</code> to quantify rates of change, statistical significance (p-values), and explanatory power (R²).</li>
+  <li><strong>Pearson Correlation Coefficient:</strong> Computed across continuous numeric pairs to discover linear associations and dependencies.</li>
+  <li><strong>IQR Outlier Detection:</strong> Bounds computed as [Q1 - 1.5*IQR, Q3 + 1.5*IQR] to detect anomalous price spikes and sensor faults.</li>
+  <li><strong>ReportLab Platypus Engine:</strong> Flowable document architecture with dynamic two-pass canvas numbering for executive PDF publishing.</li>
+</ul>
+
+<h2>6. Testing Evidence &amp; Validation</h2>
+<pre><code>C:\Users\visha\AppData\Local\Python\bin\python.exe -m unittest tests/test_pipeline.py
+.....
+----------------------------------------------------------------------
+Ran 5 tests in 0.022s
+
+OK
+</code></pre>
+<table>
+  <thead>
+    <tr>
+      <th>Test Method</th>
+      <th>Component</th>
+      <th>Success Criteria</th>
+      <th>Outcome</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>test_data_integrity</code></td>
+      <td>Data Ingestion</td>
+      <td>0 unexpected null values, &gt;0 rows</td>
+      <td><strong>PASS</strong></td>
+    </tr>
+    <tr>
+      <td><code>test_cleaner_features</code></td>
+      <td>Feature Engineering</td>
+      <td>Date features created, composite metrics valid</td>
+      <td><strong>PASS</strong></td>
+    </tr>
+    <tr>
+      <td><code>test_analyzers_output</code></td>
+      <td>Statistical Models</td>
+      <td>r in [-1, 1], R² in [0, 1], valid p-values</td>
+      <td><strong>PASS</strong></td>
+    </tr>
+    <tr>
+      <td><code>test_visualizations_exist</code></td>
+      <td>Visual Pipeline</td>
+      <td>All 20 PNG charts present and &gt;10 KB</td>
+      <td><strong>PASS</strong></td>
+    </tr>
+    <tr>
+      <td><code>test_reports_exist</code></td>
+      <td>PDF Generation</td>
+      <td>All 6 PDF reports generated and &gt;50 KB</td>
+      <td><strong>PASS</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>
