@@ -1,0 +1,1001 @@
+Student_ID,Gender,Ethnicity,Parental_Education,Lunch_Type,Test_Prep_Course,Attendance_Rate,Study_Hours_Weekly,Math_Score,Reading_Score,Writing_Score,Total_Score,Average_Score,Pass_Status
+STU0001,Female,Group A,Master's Degree,Standard,Not Completed,81.1,17,86,83,85,254,84.67,Pass
+STU0002,Female,Group B,Bachelor's Degree,Standard,Not Completed,89.1,18,67,79,96,242,80.67,Pass
+STU0003,Male,Group A,High School,Free/Reduced,Not Completed,100.0,19,74,84,94,252,84.0,Pass
+STU0004,Male,Group A,Master's Degree,Standard,Not Completed,95.1,22,88,90,100,278,92.67,Pass
+STU0005,Male,Group E,High School,Free/Reduced,Not Completed,94.9,14,79,79,78,236,78.67,Pass
+STU0006,Male,Group B,Some College,Standard,Completed,89.5,21,76,100,100,276,92.0,Pass
+STU0007,Female,Group B,Associate's Degree,Standard,Completed,84.0,16,79,73,95,247,82.33,Pass
+STU0008,Female,Group C,Associate's Degree,Standard,Not Completed,100.0,14,73,79,100,252,84.0,Pass
+STU0009,Male,Group D,High School,Standard,Not Completed,86.9,12,50,65,66,181,60.33,Pass
+STU0010,Female,Group E,Associate's Degree,Standard,Not Completed,98.3,18,95,91,78,264,88.0,Pass
+STU0011,Female,Group D,Associate's Degree,Standard,Not Completed,98.7,16,100,81,100,281,93.67,Pass
+STU0012,Male,Group C,Some High School,Standard,Not Completed,100.0,20,82,80,53,215,71.67,Pass
+STU0013,Female,Group E,Some High School,Free/Reduced,Not Completed,81.2,10,76,84,51,211,70.33,Pass
+STU0014,Female,Group E,Some College,Standard,Not Completed,77.7,15,100,83,73,256,85.33,Pass
+STU0015,Female,Group E,Some High School,Standard,Not Completed,97.0,21,82,80,73,235,78.33,Pass
+STU0016,Male,Group E,Bachelor's Degree,Standard,Not Completed,81.0,18,78,90,92,260,86.67,Pass
+STU0017,Male,Group D,Bachelor's Degree,Standard,Not Completed,91.7,18,71,85,100,256,85.33,Pass
+STU0018,Female,Group B,Some High School,Free/Reduced,Completed,95.1,17,87,84,82,253,84.33,Pass
+STU0019,Female,Group E,Bachelor's Degree,Standard,Completed,88.4,21,100,100,91,291,97.0,Pass
+STU0020,Female,Group A,Some High School,Standard,Not Completed,94.0,17,71,87,94,252,84.0,Pass
+STU0021,Male,Group B,Some College,Standard,Completed,99.8,26,100,100,92,292,97.33,Pass
+STU0022,Female,Group A,High School,Standard,Not Completed,89.5,10,84,86,81,251,83.67,Pass
+STU0023,Male,Group C,Associate's Degree,Standard,Completed,80.3,19,82,83,92,257,85.67,Pass
+STU0024,Female,Group E,Master's Degree,Standard,Completed,100.0,23,100,85,100,285,95.0,Pass
+STU0025,Female,Group A,Bachelor's Degree,Standard,Not Completed,83.7,13,81,90,92,263,87.67,Pass
+STU0026,Female,Group E,Some High School,Standard,Not Completed,74.2,13,65,78,91,234,78.0,Pass
+STU0027,Female,Group C,Associate's Degree,Standard,Completed,92.4,11,89,91,82,262,87.33,Pass
+STU0028,Female,Group A,Bachelor's Degree,Standard,Not Completed,100.0,14,76,97,84,257,85.67,Pass
+STU0029,Female,Group D,Bachelor's Degree,Free/Reduced,Not Completed,91.6,21,100,88,83,271,90.33,Pass
+STU0030,Female,Group C,Some High School,Free/Reduced,Completed,95.8,22,95,94,100,289,96.33,Pass
+STU0031,Male,Group E,Associate's Degree,Standard,Completed,96.9,25,100,100,96,296,98.67,Pass
+STU0032,Male,Group B,Master's Degree,Standard,Completed,89.9,22,96,100,93,289,96.33,Pass
+STU0033,Female,Group E,Some High School,Free/Reduced,Not Completed,92.7,15,62,97,83,242,80.67,Pass
+STU0034,Male,Group B,Master's Degree,Standard,Not Completed,90.5,10,56,71,89,216,72.0,Pass
+STU0035,Female,Group B,High School,Free/Reduced,Completed,89.8,17,81,76,100,257,85.67,Pass
+STU0036,Female,Group C,High School,Free/Reduced,Not Completed,96.9,10,52,77,94,223,74.33,Pass
+STU0037,Male,Group C,Some College,Free/Reduced,Completed,100.0,18,82,99,100,281,93.67,Pass
+STU0038,Male,Group E,Associate's Degree,Free/Reduced,Completed,91.2,20,91,98,82,271,90.33,Pass
+STU0039,Male,Group A,Some High School,Standard,Not Completed,83.2,15,79,77,79,235,78.33,Pass
+STU0040,Female,Group D,Some High School,Standard,Completed,84.8,17,59,89,83,231,77.0,Pass
+STU0041,Male,Group A,Master's Degree,Free/Reduced,Not Completed,86.7,14,88,73,72,233,77.67,Pass
+STU0042,Male,Group E,High School,Standard,Completed,82.2,15,97,94,96,287,95.67,Pass
+STU0043,Male,Group E,Some High School,Standard,Not Completed,81.7,16,68,88,68,224,74.67,Pass
+STU0044,Female,Group A,Some College,Standard,Not Completed,82.7,12,94,79,64,237,79.0,Pass
+STU0045,Female,Group B,High School,Standard,Not Completed,88.8,7,81,79,70,230,76.67,Pass
+STU0046,Male,Group D,Associate's Degree,Standard,Completed,100.0,18,95,99,89,283,94.33,Pass
+STU0047,Male,Group B,High School,Free/Reduced,Completed,90.6,12,84,80,87,251,83.67,Pass
+STU0048,Male,Group D,Bachelor's Degree,Free/Reduced,Completed,80.5,23,100,89,93,282,94.0,Pass
+STU0049,Male,Group D,Some College,Free/Reduced,Completed,100.0,16,79,93,72,244,81.33,Pass
+STU0050,Female,Group C,Some College,Standard,Not Completed,94.6,19,90,82,73,245,81.67,Pass
+STU0051,Female,Group D,Associate's Degree,Standard,Not Completed,97.9,23,72,100,95,267,89.0,Pass
+STU0052,Male,Group D,Some High School,Free/Reduced,Not Completed,78.6,13,82,77,54,213,71.0,Pass
+STU0053,Female,Group D,High School,Standard,Not Completed,94.2,10,79,60,92,231,77.0,Pass
+STU0054,Female,Group D,Bachelor's Degree,Standard,Not Completed,85.8,10,74,79,85,238,79.33,Pass
+STU0055,Male,Group C,High School,Standard,Not Completed,87.2,17,88,77,82,247,82.33,Pass
+STU0056,Female,Group C,High School,Free/Reduced,Completed,82.9,13,61,88,80,229,76.33,Pass
+STU0057,Female,Group E,High School,Standard,Not Completed,100.0,22,74,89,78,241,80.33,Pass
+STU0058,Female,Group B,Some College,Standard,Not Completed,88.7,21,100,98,85,283,94.33,Pass
+STU0059,Female,Group A,Bachelor's Degree,Free/Reduced,Not Completed,99.1,21,95,77,100,272,90.67,Pass
+STU0060,Female,Group C,Bachelor's Degree,Standard,Not Completed,88.1,25,90,100,78,268,89.33,Pass
+STU0061,Female,Group D,Some College,Standard,Completed,84.5,18,87,66,92,245,81.67,Pass
+STU0062,Male,Group D,Associate's Degree,Free/Reduced,Not Completed,90.7,22,88,92,76,256,85.33,Pass
+STU0063,Male,Group B,Associate's Degree,Standard,Completed,97.3,17,87,100,88,275,91.67,Pass
+STU0064,Male,Group E,Master's Degree,Free/Reduced,Not Completed,87.0,18,79,84,91,254,84.67,Pass
+STU0065,Female,Group D,Master's Degree,Free/Reduced,Not Completed,92.2,19,75,91,82,248,82.67,Pass
+STU0066,Male,Group D,Master's Degree,Standard,Not Completed,84.3,14,84,87,99,270,90.0,Pass
+STU0067,Male,Group A,Master's Degree,Standard,Completed,97.0,22,81,100,100,281,93.67,Pass
+STU0068,Male,Group A,High School,Standard,Not Completed,86.3,14,92,80,76,248,82.67,Pass
+STU0069,Female,Group E,Some College,Free/Reduced,Not Completed,85.6,18,86,69,69,224,74.67,Pass
+STU0070,Female,Group A,Some College,Free/Reduced,Not Completed,92.9,15,64,93,87,244,81.33,Pass
+STU0071,Female,Group B,High School,Free/Reduced,Completed,94.1,19,73,84,77,234,78.0,Pass
+STU0072,Male,Group D,Associate's Degree,Standard,Not Completed,81.6,13,82,100,86,268,89.33,Pass
+STU0073,Female,Group B,Master's Degree,Standard,Completed,96.2,22,100,100,91,291,97.0,Pass
+STU0074,Male,Group A,High School,Standard,Not Completed,92.0,16,73,82,85,240,80.0,Pass
+STU0075,Female,Group D,Some High School,Standard,Completed,87.4,25,98,99,90,287,95.67,Pass
+STU0076,Male,Group D,Some High School,Standard,Not Completed,88.2,21,85,72,76,233,77.67,Pass
+STU0077,Female,Group D,Master's Degree,Standard,Not Completed,100.0,26,100,86,100,286,95.33,Pass
+STU0078,Male,Group E,Some High School,Free/Reduced,Not Completed,80.6,9,62,61,100,223,74.33,Pass
+STU0079,Male,Group D,Some High School,Standard,Not Completed,92.4,14,82,89,59,230,76.67,Pass
+STU0080,Male,Group E,Some High School,Standard,Not Completed,82.3,15,100,66,81,247,82.33,Pass
+STU0081,Female,Group E,Associate's Degree,Standard,Not Completed,97.1,12,65,70,89,224,74.67,Pass
+STU0082,Male,Group D,Master's Degree,Standard,Not Completed,84.8,22,71,88,78,237,79.0,Pass
+STU0083,Female,Group E,Associate's Degree,Standard,Completed,89.4,23,100,100,82,282,94.0,Pass
+STU0084,Male,Group D,Associate's Degree,Free/Reduced,Not Completed,83.9,15,69,88,66,223,74.33,Pass
+STU0085,Female,Group A,Some College,Free/Reduced,Completed,99.3,14,86,91,88,265,88.33,Pass
+STU0086,Male,Group B,Associate's Degree,Standard,Not Completed,79.9,9,67,67,75,209,69.67,Pass
+STU0087,Female,Group B,Bachelor's Degree,Standard,Completed,94.2,18,71,100,78,249,83.0,Pass
+STU0088,Female,Group D,Some High School,Standard,Completed,93.3,27,100,100,96,296,98.67,Pass
+STU0089,Male,Group A,Master's Degree,Standard,Completed,92.3,22,100,95,91,286,95.33,Pass
+STU0090,Female,Group C,Master's Degree,Free/Reduced,Not Completed,85.0,13,93,81,58,232,77.33,Pass
+STU0091,Female,Group E,Some High School,Standard,Completed,95.7,18,100,100,95,295,98.33,Pass
+STU0092,Female,Group D,High School,Free/Reduced,Completed,99.1,10,86,81,95,262,87.33,Pass
+STU0093,Female,Group B,Bachelor's Degree,Standard,Completed,96.4,22,91,97,100,288,96.0,Pass
+STU0094,Female,Group B,Associate's Degree,Standard,Not Completed,81.9,12,53,70,82,205,68.33,Pass
+STU0095,Female,Group A,Associate's Degree,Free/Reduced,Completed,100.0,14,82,79,78,239,79.67,Pass
+STU0096,Male,Group A,High School,Standard,Not Completed,92.7,29,100,100,89,289,96.33,Pass
+STU0097,Male,Group C,Some High School,Standard,Completed,89.1,18,76,83,95,254,84.67,Pass
+STU0098,Female,Group E,Some College,Standard,Not Completed,90.0,15,100,85,68,253,84.33,Pass
+STU0099,Female,Group A,Master's Degree,Standard,Not Completed,92.3,13,82,82,83,247,82.33,Pass
+STU0100,Female,Group B,High School,Free/Reduced,Completed,88.1,23,96,89,97,282,94.0,Pass
+STU0101,Male,Group C,Master's Degree,Free/Reduced,Completed,91.7,18,91,87,84,262,87.33,Pass
+STU0102,Male,Group E,Some College,Standard,Not Completed,88.1,11,82,68,90,240,80.0,Pass
+STU0103,Male,Group E,Associate's Degree,Free/Reduced,Completed,95.0,20,100,97,67,264,88.0,Pass
+STU0104,Female,Group A,Master's Degree,Free/Reduced,Completed,88.3,16,100,100,100,300,100.0,Pass
+STU0105,Male,Group D,Some High School,Standard,Completed,97.8,21,83,80,100,263,87.67,Pass
+STU0106,Female,Group D,Master's Degree,Standard,Not Completed,77.0,16,96,95,87,278,92.67,Pass
+STU0107,Male,Group D,High School,Free/Reduced,Not Completed,81.3,12,77,68,60,205,68.33,Pass
+STU0108,Female,Group D,Some High School,Free/Reduced,Completed,90.1,18,81,89,80,250,83.33,Pass
+STU0109,Female,Group E,High School,Standard,Completed,96.0,19,97,87,100,284,94.67,Pass
+STU0110,Female,Group C,High School,Free/Reduced,Not Completed,92.9,20,69,83,76,228,76.0,Pass
+STU0111,Male,Group B,Bachelor's Degree,Standard,Not Completed,97.1,24,72,93,73,238,79.33,Pass
+STU0112,Female,Group D,Bachelor's Degree,Standard,Not Completed,89.6,19,60,85,83,228,76.0,Pass
+STU0113,Female,Group A,Associate's Degree,Free/Reduced,Not Completed,98.0,19,56,92,82,230,76.67,Pass
+STU0114,Female,Group C,Bachelor's Degree,Standard,Not Completed,82.4,20,100,77,87,264,88.0,Pass
+STU0115,Male,Group A,Master's Degree,Standard,Completed,87.9,24,100,94,100,294,98.0,Pass
+STU0116,Male,Group D,Associate's Degree,Free/Reduced,Not Completed,86.9,12,80,92,67,239,79.67,Pass
+STU0117,Male,Group A,Some High School,Free/Reduced,Not Completed,97.7,19,81,67,64,212,70.67,Pass
+STU0118,Male,Group A,Associate's Degree,Standard,Completed,90.8,17,67,90,63,220,73.33,Pass
+STU0119,Male,Group C,Some High School,Standard,Not Completed,85.3,13,91,90,60,241,80.33,Pass
+STU0120,Female,Group D,Bachelor's Degree,Free/Reduced,Completed,86.9,25,83,100,100,283,94.33,Pass
+STU0121,Male,Group A,High School,Standard,Completed,89.9,22,93,100,88,281,93.67,Pass
+STU0122,Female,Group A,Master's Degree,Standard,Not Completed,86.8,16,85,84,97,266,88.67,Pass
+STU0123,Female,Group A,High School,Standard,Not Completed,84.6,13,65,66,69,200,66.67,Pass
+STU0124,Female,Group C,Associate's Degree,Standard,Completed,85.8,21,84,94,100,278,92.67,Pass
+STU0125,Female,Group A,High School,Standard,Not Completed,94.2,16,77,83,82,242,80.67,Pass
+STU0126,Male,Group E,Master's Degree,Standard,Not Completed,87.0,15,73,72,94,239,79.67,Pass
+STU0127,Male,Group A,Associate's Degree,Free/Reduced,Completed,85.3,13,79,75,83,237,79.0,Pass
+STU0128,Male,Group B,Bachelor's Degree,Standard,Completed,87.9,21,100,100,100,300,100.0,Pass
+STU0129,Male,Group E,Some High School,Standard,Not Completed,94.1,13,82,91,85,258,86.0,Pass
+STU0130,Male,Group C,Master's Degree,Free/Reduced,Completed,95.0,23,100,99,100,299,99.67,Pass
+STU0131,Female,Group A,High School,Free/Reduced,Not Completed,89.1,8,49,61,82,192,64.0,Pass
+STU0132,Male,Group C,High School,Standard,Not Completed,80.5,11,54,65,64,183,61.0,Pass
+STU0133,Female,Group C,Associate's Degree,Standard,Not Completed,88.5,17,96,68,76,240,80.0,Pass
+STU0134,Male,Group E,Bachelor's Degree,Free/Reduced,Completed,100.0,16,99,90,89,278,92.67,Pass
+STU0135,Male,Group E,High School,Free/Reduced,Not Completed,78.9,16,73,71,66,210,70.0,Pass
+STU0136,Male,Group D,Bachelor's Degree,Standard,Not Completed,87.1,17,91,80,89,260,86.67,Pass
+STU0137,Female,Group C,Some High School,Standard,Not Completed,92.0,12,92,55,74,221,73.67,Pass
+STU0138,Female,Group E,Master's Degree,Standard,Not Completed,100.0,16,83,80,100,263,87.67,Pass
+STU0139,Female,Group C,Bachelor's Degree,Standard,Completed,84.3,23,100,86,97,283,94.33,Pass
+STU0140,Male,Group E,Some College,Standard,Not Completed,94.5,12,75,83,72,230,76.67,Pass
+STU0141,Female,Group B,Some High School,Standard,Completed,89.2,14,84,75,78,237,79.0,Pass
+STU0142,Female,Group E,Associate's Degree,Standard,Not Completed,84.8,10,59,93,69,221,73.67,Pass
+STU0143,Female,Group D,Some College,Free/Reduced,Not Completed,90.2,11,72,64,68,204,68.0,Pass
+STU0144,Male,Group B,Some College,Free/Reduced,Not Completed,79.2,14,78,77,58,213,71.0,Pass
+STU0145,Male,Group B,High School,Free/Reduced,Not Completed,98.5,13,82,66,89,237,79.0,Pass
+STU0146,Female,Group C,Some High School,Free/Reduced,Not Completed,94.2,18,70,53,89,212,70.67,Pass
+STU0147,Female,Group D,Some College,Free/Reduced,Not Completed,92.2,11,69,79,79,227,75.67,Pass
+STU0148,Female,Group C,High School,Standard,Not Completed,96.0,18,63,94,98,255,85.0,Pass
+STU0149,Male,Group E,Some High School,Free/Reduced,Not Completed,93.2,14,86,69,54,209,69.67,Pass
+STU0150,Female,Group C,Some High School,Standard,Not Completed,93.2,18,66,100,99,265,88.33,Pass
+STU0151,Female,Group E,Bachelor's Degree,Standard,Not Completed,93.1,13,84,98,86,268,89.33,Pass
+STU0152,Male,Group A,Bachelor's Degree,Standard,Completed,90.3,19,96,100,94,290,96.67,Pass
+STU0153,Male,Group C,Some College,Free/Reduced,Not Completed,92.8,17,74,76,61,211,70.33,Pass
+STU0154,Female,Group A,Some College,Standard,Completed,95.5,16,100,79,100,279,93.0,Pass
+STU0155,Female,Group B,Some High School,Free/Reduced,Completed,92.6,19,90,66,85,241,80.33,Pass
+STU0156,Male,Group E,Associate's Degree,Standard,Completed,95.4,23,100,100,75,275,91.67,Pass
+STU0157,Male,Group C,Some High School,Free/Reduced,Not Completed,92.1,10,78,69,74,221,73.67,Pass
+STU0158,Male,Group E,Some College,Free/Reduced,Completed,100.0,23,100,100,81,281,93.67,Pass
+STU0159,Male,Group A,Some High School,Standard,Not Completed,91.0,9,78,86,55,219,73.0,Pass
+STU0160,Male,Group E,Associate's Degree,Standard,Completed,95.2,22,94,93,88,275,91.67,Pass
+STU0161,Female,Group A,High School,Free/Reduced,Completed,91.3,15,82,100,68,250,83.33,Pass
+STU0162,Female,Group E,High School,Free/Reduced,Completed,85.9,24,100,77,85,262,87.33,Pass
+STU0163,Male,Group C,Master's Degree,Standard,Completed,93.9,23,74,100,100,274,91.33,Pass
+STU0164,Male,Group B,Bachelor's Degree,Standard,Completed,90.7,25,100,100,91,291,97.0,Pass
+STU0165,Male,Group A,Master's Degree,Free/Reduced,Completed,81.5,16,77,88,85,250,83.33,Pass
+STU0166,Female,Group C,Bachelor's Degree,Standard,Completed,94.4,23,92,94,100,286,95.33,Pass
+STU0167,Male,Group D,Bachelor's Degree,Standard,Completed,96.2,24,99,93,92,284,94.67,Pass
+STU0168,Female,Group B,Some College,Standard,Not Completed,89.1,19,72,100,74,246,82.0,Pass
+STU0169,Female,Group B,Associate's Degree,Standard,Completed,86.0,22,91,100,100,291,97.0,Pass
+STU0170,Male,Group A,Some College,Standard,Completed,89.8,18,100,92,88,280,93.33,Pass
+STU0171,Female,Group E,Bachelor's Degree,Standard,Completed,82.9,19,100,86,100,286,95.33,Pass
+STU0172,Female,Group E,Some College,Free/Reduced,Completed,82.8,17,92,72,89,253,84.33,Pass
+STU0173,Male,Group C,Associate's Degree,Standard,Completed,94.4,16,89,90,81,260,86.67,Pass
+STU0174,Male,Group E,High School,Standard,Completed,91.1,21,66,100,89,255,85.0,Pass
+STU0175,Male,Group E,Bachelor's Degree,Standard,Not Completed,97.3,21,92,97,100,289,96.33,Pass
+STU0176,Male,Group B,High School,Free/Reduced,Completed,88.8,14,72,100,100,272,90.67,Pass
+STU0177,Male,Group D,Some College,Standard,Not Completed,93.7,13,80,98,88,266,88.67,Pass
+STU0178,Male,Group C,Bachelor's Degree,Standard,Not Completed,94.6,18,94,84,95,273,91.0,Pass
+STU0179,Female,Group D,Some High School,Standard,Not Completed,88.4,13,53,77,72,202,67.33,Pass
+STU0180,Female,Group B,Some High School,Standard,Completed,87.8,30,100,100,93,293,97.67,Pass
+STU0181,Male,Group E,Some High School,Standard,Not Completed,95.2,12,59,83,65,207,69.0,Pass
+STU0182,Male,Group B,Associate's Degree,Free/Reduced,Completed,89.0,17,96,96,74,266,88.67,Pass
+STU0183,Male,Group D,Some High School,Standard,Completed,92.5,24,98,80,92,270,90.0,Pass
+STU0184,Male,Group C,Master's Degree,Free/Reduced,Completed,82.4,19,80,87,86,253,84.33,Pass
+STU0185,Male,Group B,Master's Degree,Standard,Not Completed,86.8,17,72,92,78,242,80.67,Pass
+STU0186,Male,Group A,Master's Degree,Standard,Not Completed,87.2,19,100,80,84,264,88.0,Pass
+STU0187,Female,Group D,Bachelor's Degree,Standard,Not Completed,80.9,18,71,74,82,227,75.67,Pass
+STU0188,Female,Group C,Bachelor's Degree,Standard,Completed,100.0,19,97,99,88,284,94.67,Pass
+STU0189,Male,Group C,Associate's Degree,Standard,Completed,87.0,20,100,100,70,270,90.0,Pass
+STU0190,Male,Group B,Some College,Standard,Completed,100.0,27,100,95,86,281,93.67,Pass
+STU0191,Female,Group B,Bachelor's Degree,Standard,Not Completed,93.9,17,86,82,100,268,89.33,Pass
+STU0192,Female,Group B,Some High School,Standard,Not Completed,81.1,17,77,97,100,274,91.33,Pass
+STU0193,Female,Group D,Master's Degree,Free/Reduced,Completed,91.4,17,100,92,81,273,91.0,Pass
+STU0194,Female,Group E,High School,Standard,Completed,100.0,12,76,100,100,276,92.0,Pass
+STU0195,Female,Group A,Associate's Degree,Free/Reduced,Not Completed,76.4,14,69,77,70,216,72.0,Pass
+STU0196,Male,Group C,Associate's Degree,Free/Reduced,Not Completed,76.7,20,75,85,64,224,74.67,Pass
+STU0197,Female,Group A,Some College,Standard,Not Completed,94.6,16,80,66,70,216,72.0,Pass
+STU0198,Female,Group E,Master's Degree,Free/Reduced,Completed,88.0,17,89,90,88,267,89.0,Pass
+STU0199,Female,Group D,Some College,Free/Reduced,Not Completed,93.1,11,71,86,65,222,74.0,Pass
+STU0200,Male,Group C,Master's Degree,Standard,Completed,87.5,18,96,89,72,257,85.67,Pass
+STU0201,Male,Group A,Master's Degree,Free/Reduced,Not Completed,86.2,13,81,85,76,242,80.67,Pass
+STU0202,Male,Group E,Associate's Degree,Free/Reduced,Completed,93.8,12,65,81,70,216,72.0,Pass
+STU0203,Female,Group E,Associate's Degree,Standard,Not Completed,89.6,18,94,65,91,250,83.33,Pass
+STU0204,Female,Group C,Bachelor's Degree,Standard,Completed,92.4,25,88,100,99,287,95.67,Pass
+STU0205,Female,Group D,High School,Standard,Not Completed,94.2,19,86,67,68,221,73.67,Pass
+STU0206,Female,Group E,Some High School,Standard,Not Completed,100.0,19,96,89,85,270,90.0,Pass
+STU0207,Male,Group A,Some College,Standard,Completed,74.5,21,81,84,100,265,88.33,Pass
+STU0208,Male,Group D,Some High School,Free/Reduced,Completed,81.2,16,74,79,84,237,79.0,Pass
+STU0209,Male,Group E,High School,Free/Reduced,Not Completed,89.6,14,64,89,57,210,70.0,Pass
+STU0210,Female,Group B,Associate's Degree,Standard,Not Completed,99.6,15,75,100,100,275,91.67,Pass
+STU0211,Male,Group E,Some High School,Standard,Not Completed,84.5,11,60,55,71,186,62.0,Pass
+STU0212,Male,Group B,Bachelor's Degree,Standard,Completed,100.0,22,100,100,100,300,100.0,Pass
+STU0213,Male,Group E,Bachelor's Degree,Free/Reduced,Completed,100.0,20,100,98,87,285,95.0,Pass
+STU0214,Female,Group D,Bachelor's Degree,Standard,Completed,100.0,22,95,100,97,292,97.33,Pass
+STU0215,Male,Group D,High School,Standard,Not Completed,87.7,12,76,98,80,254,84.67,Pass
+STU0216,Female,Group E,Associate's Degree,Free/Reduced,Not Completed,94.4,18,85,87,98,270,90.0,Pass
+STU0217,Male,Group C,Some High School,Standard,Completed,94.8,22,89,94,100,283,94.33,Pass
+STU0218,Female,Group D,High School,Free/Reduced,Not Completed,91.9,17,72,100,67,239,79.67,Pass
+STU0219,Female,Group D,High School,Free/Reduced,Completed,92.5,14,76,93,70,239,79.67,Pass
+STU0220,Male,Group C,Some College,Standard,Not Completed,100.0,18,100,68,89,257,85.67,Pass
+STU0221,Female,Group C,Some College,Standard,Not Completed,94.4,17,80,100,77,257,85.67,Pass
+STU0222,Female,Group B,Some College,Standard,Not Completed,90.2,15,95,93,81,269,89.67,Pass
+STU0223,Male,Group D,Associate's Degree,Standard,Completed,100.0,23,71,100,83,254,84.67,Pass
+STU0224,Female,Group E,Some High School,Free/Reduced,Not Completed,89.6,12,65,78,74,217,72.33,Pass
+STU0225,Female,Group A,Master's Degree,Standard,Not Completed,91.0,16,66,69,100,235,78.33,Pass
+STU0226,Female,Group A,Bachelor's Degree,Standard,Not Completed,84.5,14,79,87,86,252,84.0,Pass
+STU0227,Male,Group B,Some High School,Free/Reduced,Not Completed,98.6,14,72,87,74,233,77.67,Pass
+STU0228,Male,Group D,Bachelor's Degree,Standard,Completed,87.8,19,100,100,100,300,100.0,Pass
+STU0229,Female,Group A,Associate's Degree,Standard,Not Completed,91.1,17,88,97,69,254,84.67,Pass
+STU0230,Female,Group E,Some High School,Standard,Completed,89.4,21,75,90,100,265,88.33,Pass
+STU0231,Male,Group E,Bachelor's Degree,Free/Reduced,Not Completed,89.5,16,81,89,88,258,86.0,Pass
+STU0232,Female,Group C,High School,Standard,Not Completed,92.9,8,57,65,74,196,65.33,Pass
+STU0233,Female,Group A,Bachelor's Degree,Free/Reduced,Not Completed,93.9,18,96,93,76,265,88.33,Pass
+STU0234,Male,Group A,Master's Degree,Standard,Completed,84.7,17,94,100,89,283,94.33,Pass
+STU0235,Male,Group A,Bachelor's Degree,Standard,Not Completed,94.3,20,73,100,94,267,89.0,Pass
+STU0236,Male,Group A,Some High School,Standard,Not Completed,87.9,18,84,86,82,252,84.0,Pass
+STU0237,Male,Group E,Bachelor's Degree,Standard,Not Completed,97.2,22,73,84,92,249,83.0,Pass
+STU0238,Male,Group D,Some High School,Free/Reduced,Not Completed,94.0,13,70,58,68,196,65.33,Pass
+STU0239,Female,Group B,Some College,Standard,Not Completed,94.7,20,72,94,97,263,87.67,Pass
+STU0240,Female,Group D,Bachelor's Degree,Standard,Not Completed,92.1,19,88,74,100,262,87.33,Pass
+STU0241,Male,Group C,Associate's Degree,Standard,Completed,80.8,26,100,100,100,300,100.0,Pass
+STU0242,Male,Group B,Associate's Degree,Free/Reduced,Not Completed,87.0,14,60,70,69,199,66.33,Pass
+STU0243,Male,Group C,Associate's Degree,Standard,Completed,100.0,24,100,100,100,300,100.0,Pass
+STU0244,Female,Group D,Some College,Free/Reduced,Not Completed,97.1,16,60,79,77,216,72.0,Pass
+STU0245,Male,Group B,Some College,Free/Reduced,Completed,88.7,18,100,89,76,265,88.33,Pass
+STU0246,Male,Group E,Some High School,Free/Reduced,Not Completed,96.8,16,64,74,70,208,69.33,Pass
+STU0247,Female,Group C,High School,Standard,Not Completed,91.0,20,63,94,96,253,84.33,Pass
+STU0248,Female,Group A,Some College,Standard,Completed,82.3,19,83,96,100,279,93.0,Pass
+STU0249,Male,Group E,Master's Degree,Standard,Not Completed,92.1,19,60,100,100,260,86.67,Pass
+STU0250,Female,Group C,Some College,Standard,Completed,88.4,26,95,100,100,295,98.33,Pass
+STU0251,Male,Group C,Some High School,Standard,Completed,100.0,24,84,86,100,270,90.0,Pass
+STU0252,Female,Group E,High School,Standard,Not Completed,87.1,24,87,90,71,248,82.67,Pass
+STU0253,Female,Group D,Associate's Degree,Standard,Not Completed,99.4,18,70,99,94,263,87.67,Pass
+STU0254,Female,Group E,Some High School,Free/Reduced,Not Completed,89.1,20,80,90,89,259,86.33,Pass
+STU0255,Male,Group E,Master's Degree,Standard,Not Completed,92.4,16,77,99,93,269,89.67,Pass
+STU0256,Male,Group E,Bachelor's Degree,Standard,Not Completed,97.3,23,98,100,100,298,99.33,Pass
+STU0257,Male,Group D,Bachelor's Degree,Standard,Not Completed,100.0,20,84,79,100,263,87.67,Pass
+STU0258,Male,Group C,High School,Standard,Completed,81.7,18,69,100,81,250,83.33,Pass
+STU0259,Female,Group D,Bachelor's Degree,Standard,Not Completed,84.2,16,90,76,90,256,85.33,Pass
+STU0260,Female,Group C,Some High School,Standard,Not Completed,93.5,15,88,80,63,231,77.0,Pass
+STU0261,Female,Group E,Some High School,Standard,Not Completed,91.1,19,79,64,76,219,73.0,Pass
+STU0262,Male,Group A,Master's Degree,Free/Reduced,Completed,85.1,21,100,86,94,280,93.33,Pass
+STU0263,Female,Group D,Some High School,Free/Reduced,Not Completed,82.0,15,57,86,69,212,70.67,Pass
+STU0264,Female,Group B,High School,Free/Reduced,Not Completed,80.2,12,62,84,97,243,81.0,Pass
+STU0265,Male,Group C,Bachelor's Degree,Standard,Completed,93.9,27,100,100,100,300,100.0,Pass
+STU0266,Male,Group B,Master's Degree,Free/Reduced,Not Completed,83.9,7,49,76,55,180,60.0,Pass
+STU0267,Male,Group B,Bachelor's Degree,Standard,Not Completed,92.2,16,91,71,70,232,77.33,Pass
+STU0268,Male,Group D,Associate's Degree,Standard,Not Completed,93.6,20,65,87,72,224,74.67,Pass
+STU0269,Male,Group A,Bachelor's Degree,Standard,Completed,86.4,23,94,100,92,286,95.33,Pass
+STU0270,Male,Group C,Master's Degree,Free/Reduced,Not Completed,81.3,15,60,100,78,238,79.33,Pass
+STU0271,Female,Group D,Associate's Degree,Standard,Completed,100.0,21,100,100,100,300,100.0,Pass
+STU0272,Male,Group A,Master's Degree,Standard,Not Completed,89.2,25,75,100,95,270,90.0,Pass
+STU0273,Female,Group D,Master's Degree,Standard,Not Completed,93.7,18,75,83,90,248,82.67,Pass
+STU0274,Male,Group A,Associate's Degree,Free/Reduced,Not Completed,90.4,15,80,80,70,230,76.67,Pass
+STU0275,Male,Group C,High School,Standard,Completed,86.6,23,88,90,76,254,84.67,Pass
+STU0276,Female,Group D,Some College,Free/Reduced,Not Completed,92.7,12,83,69,58,210,70.0,Pass
+STU0277,Female,Group A,High School,Free/Reduced,Not Completed,97.5,6,64,76,71,211,70.33,Pass
+STU0278,Male,Group A,Master's Degree,Free/Reduced,Not Completed,87.5,17,74,71,89,234,78.0,Pass
+STU0279,Female,Group D,Associate's Degree,Standard,Not Completed,84.4,12,100,75,86,261,87.0,Pass
+STU0280,Male,Group C,Bachelor's Degree,Free/Reduced,Completed,100.0,19,88,100,95,283,94.33,Pass
+STU0281,Male,Group B,Some High School,Free/Reduced,Completed,92.8,14,76,66,71,213,71.0,Pass
+STU0282,Female,Group C,Some High School,Standard,Not Completed,93.8,16,98,71,80,249,83.0,Pass
+STU0283,Female,Group C,Master's Degree,Standard,Completed,97.3,21,100,100,100,300,100.0,Pass
+STU0284,Female,Group A,Some High School,Free/Reduced,Completed,98.7,16,100,69,86,255,85.0,Pass
+STU0285,Male,Group B,Some College,Standard,Completed,100.0,19,96,97,98,291,97.0,Pass
+STU0286,Female,Group C,Master's Degree,Free/Reduced,Not Completed,81.4,13,75,99,87,261,87.0,Pass
+STU0287,Female,Group C,High School,Standard,Not Completed,82.9,9,71,86,95,252,84.0,Pass
+STU0288,Female,Group A,Associate's Degree,Standard,Completed,99.9,22,100,100,100,300,100.0,Pass
+STU0289,Male,Group B,Some College,Standard,Completed,100.0,16,88,95,92,275,91.67,Pass
+STU0290,Female,Group E,Some High School,Free/Reduced,Not Completed,83.6,12,69,76,63,208,69.33,Pass
+STU0291,Male,Group A,Some College,Standard,Not Completed,98.6,15,66,89,63,218,72.67,Pass
+STU0292,Female,Group E,High School,Standard,Completed,99.6,19,93,84,83,260,86.67,Pass
+STU0293,Female,Group C,Some High School,Free/Reduced,Not Completed,83.6,13,77,100,48,225,75.0,Pass
+STU0294,Female,Group C,Some High School,Standard,Not Completed,95.4,19,70,94,77,241,80.33,Pass
+STU0295,Female,Group E,Some High School,Standard,Not Completed,93.4,10,89,83,84,256,85.33,Pass
+STU0296,Male,Group D,Master's Degree,Free/Reduced,Not Completed,86.7,18,82,89,78,249,83.0,Pass
+STU0297,Female,Group B,Some High School,Standard,Not Completed,92.5,10,81,75,75,231,77.0,Pass
+STU0298,Female,Group A,High School,Free/Reduced,Not Completed,87.9,16,55,79,97,231,77.0,Pass
+STU0299,Female,Group A,Master's Degree,Standard,Not Completed,88.0,12,78,100,97,275,91.67,Pass
+STU0300,Male,Group E,Master's Degree,Standard,Not Completed,100.0,18,100,95,91,286,95.33,Pass
+STU0301,Female,Group B,High School,Free/Reduced,Not Completed,81.2,10,56,64,70,190,63.33,Pass
+STU0302,Female,Group B,Master's Degree,Standard,Not Completed,100.0,17,75,90,96,261,87.0,Pass
+STU0303,Male,Group A,High School,Free/Reduced,Not Completed,81.7,13,57,78,52,187,62.33,Pass
+STU0304,Male,Group C,Associate's Degree,Free/Reduced,Not Completed,88.8,21,72,79,89,240,80.0,Pass
+STU0305,Male,Group A,Some High School,Standard,Not Completed,100.0,17,63,81,86,230,76.67,Pass
+STU0306,Male,Group C,Associate's Degree,Standard,Not Completed,94.6,10,70,76,82,228,76.0,Pass
+STU0307,Male,Group E,High School,Standard,Completed,100.0,17,79,96,83,258,86.0,Pass
+STU0308,Female,Group A,High School,Free/Reduced,Not Completed,94.7,12,45,100,88,233,77.67,Pass
+STU0309,Female,Group E,Associate's Degree,Standard,Completed,89.1,21,75,86,91,252,84.0,Pass
+STU0310,Female,Group C,Bachelor's Degree,Standard,Not Completed,94.9,9,100,94,77,271,90.33,Pass
+STU0311,Male,Group B,Associate's Degree,Standard,Not Completed,89.6,16,69,85,65,219,73.0,Pass
+STU0312,Male,Group B,Some College,Standard,Not Completed,87.8,12,70,91,85,246,82.0,Pass
+STU0313,Male,Group A,Some College,Free/Reduced,Completed,86.6,14,68,100,81,249,83.0,Pass
+STU0314,Male,Group C,High School,Free/Reduced,Not Completed,94.5,9,57,62,80,199,66.33,Pass
+STU0315,Female,Group D,Some College,Free/Reduced,Not Completed,90.4,15,70,65,91,226,75.33,Pass
+STU0316,Female,Group B,Bachelor's Degree,Standard,Completed,82.9,15,80,100,100,280,93.33,Pass
+STU0317,Male,Group A,High School,Standard,Not Completed,74.6,8,74,55,65,194,64.67,Pass
+STU0318,Female,Group C,High School,Standard,Not Completed,88.3,11,78,87,77,242,80.67,Pass
+STU0319,Male,Group B,Associate's Degree,Standard,Not Completed,89.1,15,55,86,69,210,70.0,Pass
+STU0320,Female,Group D,Some High School,Free/Reduced,Not Completed,92.6,9,68,79,78,225,75.0,Pass
+STU0321,Male,Group B,Master's Degree,Standard,Completed,92.8,24,100,100,97,297,99.0,Pass
+STU0322,Female,Group E,Associate's Degree,Standard,Not Completed,90.0,12,85,76,66,227,75.67,Pass
+STU0323,Male,Group C,Some College,Standard,Not Completed,82.6,10,80,86,66,232,77.33,Pass
+STU0324,Male,Group B,Some High School,Standard,Not Completed,89.7,16,81,85,68,234,78.0,Pass
+STU0325,Male,Group D,Associate's Degree,Free/Reduced,Not Completed,83.8,12,62,82,72,216,72.0,Pass
+STU0326,Male,Group D,Some College,Standard,Not Completed,100.0,18,92,86,81,259,86.33,Pass
+STU0327,Male,Group E,Associate's Degree,Free/Reduced,Not Completed,82.7,7,72,60,45,177,59.0,Pass
+STU0328,Male,Group E,High School,Standard,Not Completed,97.6,13,65,57,76,198,66.0,Pass
+STU0329,Female,Group A,Associate's Degree,Standard,Completed,92.7,27,100,100,100,300,100.0,Pass
+STU0330,Female,Group E,Some College,Standard,Completed,92.6,19,88,84,93,265,88.33,Pass
+STU0331,Male,Group E,Associate's Degree,Free/Reduced,Not Completed,81.0,13,72,69,79,220,73.33,Pass
+STU0332,Female,Group A,Bachelor's Degree,Free/Reduced,Completed,100.0,24,80,100,97,277,92.33,Pass
+STU0333,Male,Group E,Bachelor's Degree,Standard,Not Completed,94.4,13,78,77,65,220,73.33,Pass
+STU0334,Female,Group A,Master's Degree,Standard,Not Completed,89.1,23,97,95,85,277,92.33,Pass
+STU0335,Male,Group A,High School,Standard,Completed,92.7,11,82,99,79,260,86.67,Pass
+STU0336,Female,Group D,Master's Degree,Standard,Not Completed,88.4,15,86,88,84,258,86.0,Pass
+STU0337,Male,Group B,Bachelor's Degree,Free/Reduced,Not Completed,100.0,18,88,80,60,228,76.0,Pass
+STU0338,Female,Group C,Some College,Free/Reduced,Not Completed,88.6,17,71,90,83,244,81.33,Pass
+STU0339,Male,Group B,Associate's Degree,Standard,Not Completed,100.0,21,87,74,84,245,81.67,Pass
+STU0340,Female,Group E,High School,Free/Reduced,Completed,89.7,20,75,86,90,251,83.67,Pass
+STU0341,Female,Group D,High School,Standard,Not Completed,91.5,18,82,73,98,253,84.33,Pass
+STU0342,Male,Group D,Some College,Standard,Not Completed,87.5,15,93,72,69,234,78.0,Pass
+STU0343,Female,Group E,Master's Degree,Free/Reduced,Completed,86.7,15,84,100,83,267,89.0,Pass
+STU0344,Male,Group C,Some College,Standard,Completed,96.3,20,89,100,100,289,96.33,Pass
+STU0345,Female,Group E,Associate's Degree,Free/Reduced,Completed,81.1,16,92,86,78,256,85.33,Pass
+STU0346,Female,Group E,Master's Degree,Free/Reduced,Completed,86.7,21,100,90,82,272,90.67,Pass
+STU0347,Male,Group C,Bachelor's Degree,Standard,Not Completed,83.1,15,78,97,80,255,85.0,Pass
+STU0348,Female,Group C,Master's Degree,Standard,Not Completed,88.2,11,70,86,76,232,77.33,Pass
+STU0349,Male,Group E,Some College,Standard,Not Completed,95.9,22,72,83,79,234,78.0,Pass
+STU0350,Female,Group D,Bachelor's Degree,Standard,Not Completed,93.4,18,81,94,100,275,91.67,Pass
+STU0351,Male,Group B,Some College,Free/Reduced,Not Completed,94.0,18,88,81,89,258,86.0,Pass
+STU0352,Female,Group B,Bachelor's Degree,Free/Reduced,Not Completed,91.0,17,75,72,75,222,74.0,Pass
+STU0353,Male,Group D,Associate's Degree,Standard,Not Completed,97.2,18,94,89,87,270,90.0,Pass
+STU0354,Female,Group B,High School,Free/Reduced,Not Completed,92.8,11,77,67,70,214,71.33,Pass
+STU0355,Female,Group C,Some College,Standard,Not Completed,87.8,12,74,75,95,244,81.33,Pass
+STU0356,Female,Group B,Associate's Degree,Standard,Not Completed,94.9,16,81,99,88,268,89.33,Pass
+STU0357,Female,Group C,Master's Degree,Free/Reduced,Not Completed,87.7,18,76,83,100,259,86.33,Pass
+STU0358,Female,Group A,Master's Degree,Standard,Not Completed,94.3,17,93,88,84,265,88.33,Pass
+STU0359,Female,Group C,Associate's Degree,Free/Reduced,Completed,99.6,17,100,100,100,300,100.0,Pass
+STU0360,Female,Group C,Some High School,Free/Reduced,Not Completed,82.1,17,56,88,49,193,64.33,Pass
+STU0361,Male,Group D,Some College,Standard,Not Completed,87.5,22,75,89,88,252,84.0,Pass
+STU0362,Female,Group E,Master's Degree,Standard,Completed,92.9,21,94,99,80,273,91.0,Pass
+STU0363,Female,Group D,Some College,Standard,Not Completed,79.8,20,87,76,80,243,81.0,Pass
+STU0364,Female,Group A,Some High School,Standard,Not Completed,84.9,11,63,97,59,219,73.0,Pass
+STU0365,Male,Group A,Some College,Free/Reduced,Not Completed,96.1,6,68,85,82,235,78.33,Pass
+STU0366,Female,Group A,High School,Free/Reduced,Not Completed,90.8,8,63,57,78,198,66.0,Pass
+STU0367,Male,Group B,Bachelor's Degree,Standard,Not Completed,95.0,23,100,69,100,269,89.67,Pass
+STU0368,Female,Group D,Associate's Degree,Standard,Not Completed,89.2,23,100,81,73,254,84.67,Pass
+STU0369,Female,Group C,Bachelor's Degree,Standard,Completed,99.4,25,100,100,100,300,100.0,Pass
+STU0370,Female,Group A,Master's Degree,Free/Reduced,Not Completed,81.3,12,76,87,95,258,86.0,Pass
+STU0371,Male,Group B,Some College,Free/Reduced,Not Completed,99.2,15,70,86,58,214,71.33,Pass
+STU0372,Male,Group A,Associate's Degree,Standard,Not Completed,81.7,18,79,92,86,257,85.67,Pass
+STU0373,Female,Group A,Bachelor's Degree,Free/Reduced,Not Completed,86.3,19,73,74,74,221,73.67,Pass
+STU0374,Female,Group D,Some College,Standard,Not Completed,83.8,23,86,86,83,255,85.0,Pass
+STU0375,Female,Group A,Some College,Standard,Not Completed,83.4,18,76,87,95,258,86.0,Pass
+STU0376,Male,Group A,Some College,Standard,Not Completed,95.5,14,75,66,86,227,75.67,Pass
+STU0377,Male,Group A,Associate's Degree,Standard,Not Completed,87.5,16,90,76,68,234,78.0,Pass
+STU0378,Male,Group A,Bachelor's Degree,Free/Reduced,Not Completed,81.3,13,81,96,66,243,81.0,Pass
+STU0379,Female,Group E,High School,Free/Reduced,Not Completed,93.3,9,78,63,49,190,63.33,Pass
+STU0380,Female,Group C,Associate's Degree,Free/Reduced,Completed,90.7,25,94,81,100,275,91.67,Pass
+STU0381,Male,Group E,Some College,Free/Reduced,Completed,87.2,16,77,82,75,234,78.0,Pass
+STU0382,Female,Group E,Bachelor's Degree,Free/Reduced,Not Completed,96.5,20,91,74,91,256,85.33,Pass
+STU0383,Male,Group E,Some College,Free/Reduced,Not Completed,90.6,16,72,82,84,238,79.33,Pass
+STU0384,Female,Group C,Master's Degree,Standard,Completed,90.8,22,89,100,100,289,96.33,Pass
+STU0385,Male,Group A,Bachelor's Degree,Free/Reduced,Completed,85.6,24,85,94,98,277,92.33,Pass
+STU0386,Male,Group A,Associate's Degree,Standard,Completed,94.8,13,88,92,89,269,89.67,Pass
+STU0387,Male,Group B,Bachelor's Degree,Free/Reduced,Completed,92.4,17,78,82,81,241,80.33,Pass
+STU0388,Female,Group B,Some College,Standard,Completed,100.0,23,100,100,98,298,99.33,Pass
+STU0389,Female,Group D,Some College,Standard,Not Completed,87.1,14,69,97,87,253,84.33,Pass
+STU0390,Male,Group E,Some High School,Free/Reduced,Not Completed,93.0,15,63,79,58,200,66.67,Pass
+STU0391,Female,Group C,Bachelor's Degree,Standard,Not Completed,96.0,22,77,100,100,277,92.33,Pass
+STU0392,Female,Group C,Some College,Standard,Not Completed,91.3,18,67,100,87,254,84.67,Pass
+STU0393,Female,Group A,Master's Degree,Standard,Not Completed,77.5,12,78,85,91,254,84.67,Pass
+STU0394,Female,Group D,Some College,Standard,Not Completed,99.9,14,70,72,100,242,80.67,Pass
+STU0395,Male,Group D,Some High School,Standard,Completed,93.6,18,100,100,91,291,97.0,Pass
+STU0396,Female,Group B,Master's Degree,Standard,Not Completed,84.3,13,59,90,100,249,83.0,Pass
+STU0397,Male,Group A,Master's Degree,Free/Reduced,Not Completed,88.2,15,85,85,78,248,82.67,Pass
+STU0398,Female,Group C,Associate's Degree,Standard,Not Completed,90.1,18,83,79,75,237,79.0,Pass
+STU0399,Female,Group E,Some High School,Free/Reduced,Not Completed,88.7,15,72,65,91,228,76.0,Pass
+STU0400,Male,Group D,Associate's Degree,Free/Reduced,Not Completed,93.7,18,85,81,58,224,74.67,Pass
+STU0401,Male,Group B,Some College,Free/Reduced,Completed,81.5,19,64,100,72,236,78.67,Pass
+STU0402,Female,Group A,Some High School,Standard,Not Completed,86.6,13,72,82,96,250,83.33,Pass
+STU0403,Male,Group B,Associate's Degree,Free/Reduced,Completed,94.8,19,82,87,100,269,89.67,Pass
+STU0404,Female,Group E,Associate's Degree,Standard,Not Completed,89.7,20,75,92,100,267,89.0,Pass
+STU0405,Male,Group C,High School,Free/Reduced,Not Completed,91.6,13,74,85,62,221,73.67,Pass
+STU0406,Female,Group E,Bachelor's Degree,Standard,Not Completed,92.6,23,90,94,100,284,94.67,Pass
+STU0407,Male,Group C,Some College,Standard,Completed,88.2,23,88,100,88,276,92.0,Pass
+STU0408,Female,Group C,High School,Free/Reduced,Not Completed,88.3,13,52,69,51,172,57.33,Pass
+STU0409,Female,Group E,Bachelor's Degree,Standard,Not Completed,88.2,22,46,81,74,201,67.0,Pass
+STU0410,Male,Group D,High School,Free/Reduced,Not Completed,92.2,15,66,70,71,207,69.0,Pass
+STU0411,Male,Group E,Some High School,Free/Reduced,Completed,82.8,18,88,96,74,258,86.0,Pass
+STU0412,Female,Group D,Some College,Standard,Completed,92.6,20,100,99,100,299,99.67,Pass
+STU0413,Male,Group D,Associate's Degree,Free/Reduced,Completed,95.5,23,100,100,86,286,95.33,Pass
+STU0414,Male,Group E,Bachelor's Degree,Standard,Not Completed,83.7,15,93,89,79,261,87.0,Pass
+STU0415,Male,Group D,High School,Standard,Not Completed,85.7,18,60,82,70,212,70.67,Pass
+STU0416,Female,Group B,Some High School,Standard,Not Completed,91.8,14,81,63,68,212,70.67,Pass
+STU0417,Female,Group D,Some College,Free/Reduced,Not Completed,89.4,12,84,94,80,258,86.0,Pass
+STU0418,Female,Group B,Master's Degree,Standard,Completed,94.8,21,100,100,98,298,99.33,Pass
+STU0419,Male,Group E,Bachelor's Degree,Standard,Completed,79.7,19,100,95,83,278,92.67,Pass
+STU0420,Male,Group B,High School,Free/Reduced,Not Completed,91.7,11,47,79,83,209,69.67,Pass
+STU0421,Male,Group B,Master's Degree,Free/Reduced,Completed,89.8,18,86,99,100,285,95.0,Pass
+STU0422,Male,Group B,Bachelor's Degree,Standard,Not Completed,89.8,18,83,92,73,248,82.67,Pass
+STU0423,Female,Group A,Associate's Degree,Free/Reduced,Completed,90.7,17,100,84,81,265,88.33,Pass
+STU0424,Female,Group E,Associate's Degree,Standard,Completed,94.0,21,84,84,90,258,86.0,Pass
+STU0425,Female,Group D,High School,Standard,Completed,90.5,20,77,85,94,256,85.33,Pass
+STU0426,Female,Group E,Bachelor's Degree,Standard,Not Completed,85.6,18,69,84,99,252,84.0,Pass
+STU0427,Female,Group D,Master's Degree,Standard,Not Completed,86.9,12,52,62,80,194,64.67,Pass
+STU0428,Male,Group B,Some College,Standard,Not Completed,99.7,18,83,90,74,247,82.33,Pass
+STU0429,Female,Group A,Master's Degree,Standard,Completed,91.9,22,78,100,100,278,92.67,Pass
+STU0430,Female,Group B,Associate's Degree,Free/Reduced,Not Completed,90.7,9,74,85,70,229,76.33,Pass
+STU0431,Female,Group C,High School,Standard,Not Completed,74.4,13,55,83,68,206,68.67,Pass
+STU0432,Female,Group B,Master's Degree,Standard,Not Completed,100.0,28,73,92,100,265,88.33,Pass
+STU0433,Female,Group E,High School,Free/Reduced,Not Completed,72.1,7,68,68,51,187,62.33,Pass
+STU0434,Male,Group E,High School,Standard,Completed,95.4,22,94,92,100,286,95.33,Pass
+STU0435,Male,Group C,Some College,Standard,Completed,92.3,16,98,95,77,270,90.0,Pass
+STU0436,Male,Group C,Some High School,Free/Reduced,Completed,98.9,16,68,73,76,217,72.33,Pass
+STU0437,Male,Group E,Associate's Degree,Free/Reduced,Completed,91.1,22,74,97,95,266,88.67,Pass
+STU0438,Female,Group D,Master's Degree,Free/Reduced,Not Completed,86.9,16,58,74,89,221,73.67,Pass
+STU0439,Female,Group C,High School,Standard,Not Completed,83.7,14,66,75,75,216,72.0,Pass
+STU0440,Male,Group B,Master's Degree,Free/Reduced,Completed,88.5,22,93,95,71,259,86.33,Pass
+STU0441,Female,Group B,High School,Free/Reduced,Completed,97.7,12,84,88,98,270,90.0,Pass
+STU0442,Female,Group E,Some High School,Free/Reduced,Not Completed,83.2,12,90,81,62,233,77.67,Pass
+STU0443,Male,Group D,High School,Free/Reduced,Completed,94.9,16,79,85,86,250,83.33,Pass
+STU0444,Female,Group E,Some College,Standard,Completed,98.1,15,100,92,85,277,92.33,Pass
+STU0445,Female,Group A,Master's Degree,Standard,Not Completed,98.0,15,85,100,92,277,92.33,Pass
+STU0446,Male,Group C,High School,Standard,Not Completed,89.7,19,67,88,71,226,75.33,Pass
+STU0447,Female,Group E,High School,Free/Reduced,Completed,82.0,19,86,72,90,248,82.67,Pass
+STU0448,Female,Group D,Some High School,Standard,Not Completed,100.0,12,76,63,80,219,73.0,Pass
+STU0449,Male,Group C,Some College,Standard,Not Completed,94.7,12,99,90,63,252,84.0,Pass
+STU0450,Male,Group C,Some College,Standard,Not Completed,95.4,17,79,92,83,254,84.67,Pass
+STU0451,Female,Group E,Bachelor's Degree,Standard,Not Completed,91.7,21,82,100,95,277,92.33,Pass
+STU0452,Female,Group D,Bachelor's Degree,Standard,Not Completed,91.6,13,88,90,78,256,85.33,Pass
+STU0453,Male,Group A,Some High School,Standard,Not Completed,94.1,13,73,95,74,242,80.67,Pass
+STU0454,Male,Group E,Bachelor's Degree,Free/Reduced,Not Completed,92.6,20,85,85,67,237,79.0,Pass
+STU0455,Female,Group B,High School,Standard,Not Completed,88.8,19,97,88,47,232,77.33,Pass
+STU0456,Female,Group C,Bachelor's Degree,Standard,Completed,95.8,19,91,100,100,291,97.0,Pass
+STU0457,Female,Group B,Bachelor's Degree,Free/Reduced,Not Completed,77.4,11,66,87,90,243,81.0,Pass
+STU0458,Male,Group E,Associate's Degree,Standard,Completed,83.2,19,86,77,95,258,86.0,Pass
+STU0459,Male,Group E,Master's Degree,Standard,Not Completed,96.6,15,90,78,80,248,82.67,Pass
+STU0460,Male,Group A,Some High School,Standard,Completed,95.9,21,99,79,88,266,88.67,Pass
+STU0461,Male,Group D,Some College,Standard,Not Completed,94.9,16,93,86,70,249,83.0,Pass
+STU0462,Male,Group B,High School,Free/Reduced,Completed,93.8,19,77,100,92,269,89.67,Pass
+STU0463,Male,Group C,Master's Degree,Free/Reduced,Completed,95.8,13,93,100,79,272,90.67,Pass
+STU0464,Male,Group E,Associate's Degree,Standard,Not Completed,96.5,12,84,85,84,253,84.33,Pass
+STU0465,Male,Group B,Master's Degree,Standard,Not Completed,91.8,18,89,100,89,278,92.67,Pass
+STU0466,Male,Group D,Master's Degree,Free/Reduced,Not Completed,97.3,11,53,100,84,237,79.0,Pass
+STU0467,Female,Group E,Associate's Degree,Standard,Completed,98.0,19,100,100,97,297,99.0,Pass
+STU0468,Male,Group B,Master's Degree,Free/Reduced,Not Completed,88.5,12,71,76,69,216,72.0,Pass
+STU0469,Male,Group C,Some College,Standard,Completed,83.4,19,100,100,87,287,95.67,Pass
+STU0470,Female,Group B,Some High School,Standard,Not Completed,100.0,18,83,75,80,238,79.33,Pass
+STU0471,Female,Group A,Some High School,Standard,Completed,87.7,18,88,83,75,246,82.0,Pass
+STU0472,Male,Group A,Some High School,Standard,Not Completed,87.0,15,73,69,75,217,72.33,Pass
+STU0473,Male,Group D,Master's Degree,Standard,Completed,94.3,19,100,94,89,283,94.33,Pass
+STU0474,Male,Group B,Bachelor's Degree,Standard,Not Completed,91.0,19,77,100,65,242,80.67,Pass
+STU0475,Female,Group A,Bachelor's Degree,Standard,Not Completed,97.0,17,100,91,87,278,92.67,Pass
+STU0476,Female,Group E,Some College,Free/Reduced,Not Completed,88.7,16,58,68,77,203,67.67,Pass
+STU0477,Male,Group E,High School,Standard,Not Completed,86.8,13,69,77,76,222,74.0,Pass
+STU0478,Female,Group B,Some High School,Standard,Not Completed,78.0,13,61,67,64,192,64.0,Pass
+STU0479,Male,Group A,Some College,Standard,Completed,96.4,28,85,84,100,269,89.67,Pass
+STU0480,Female,Group C,Bachelor's Degree,Free/Reduced,Completed,95.5,16,72,100,100,272,90.67,Pass
+STU0481,Female,Group A,Some College,Standard,Not Completed,89.6,15,81,94,90,265,88.33,Pass
+STU0482,Female,Group E,Master's Degree,Standard,Completed,95.3,26,87,99,93,279,93.0,Pass
+STU0483,Male,Group A,High School,Free/Reduced,Not Completed,86.9,8,49,66,86,201,67.0,Pass
+STU0484,Male,Group C,Associate's Degree,Free/Reduced,Not Completed,87.1,11,55,68,68,191,63.67,Pass
+STU0485,Male,Group C,Associate's Degree,Standard,Not Completed,71.7,15,62,70,83,215,71.67,Pass
+STU0486,Male,Group B,High School,Free/Reduced,Not Completed,93.5,13,54,72,84,210,70.0,Pass
+STU0487,Female,Group A,Some High School,Standard,Not Completed,100.0,14,78,90,78,246,82.0,Pass
+STU0488,Female,Group A,Master's Degree,Standard,Not Completed,78.9,22,87,83,71,241,80.33,Pass
+STU0489,Female,Group E,Master's Degree,Standard,Completed,90.4,19,100,100,90,290,96.67,Pass
+STU0490,Male,Group A,High School,Free/Reduced,Completed,100.0,23,82,91,86,259,86.33,Pass
+STU0491,Female,Group C,Bachelor's Degree,Standard,Not Completed,87.3,17,65,54,100,219,73.0,Pass
+STU0492,Female,Group B,Associate's Degree,Standard,Not Completed,91.8,15,84,81,84,249,83.0,Pass
+STU0493,Male,Group C,Some High School,Standard,Not Completed,78.4,12,62,75,59,196,65.33,Pass
+STU0494,Female,Group B,Some High School,Standard,Not Completed,87.8,18,63,90,89,242,80.67,Pass
+STU0495,Male,Group C,High School,Standard,Not Completed,92.0,18,95,81,90,266,88.67,Pass
+STU0496,Female,Group D,Some High School,Free/Reduced,Not Completed,87.7,13,62,72,69,203,67.67,Pass
+STU0497,Female,Group B,Bachelor's Degree,Free/Reduced,Completed,91.0,20,90,91,95,276,92.0,Pass
+STU0498,Female,Group E,High School,Standard,Not Completed,89.6,15,89,79,74,242,80.67,Pass
+STU0499,Female,Group D,Bachelor's Degree,Free/Reduced,Not Completed,92.3,15,85,99,83,267,89.0,Pass
+STU0500,Female,Group A,Associate's Degree,Free/Reduced,Completed,98.0,22,86,100,100,286,95.33,Pass
+STU0501,Male,Group B,Associate's Degree,Standard,Completed,88.9,23,91,96,100,287,95.67,Pass
+STU0502,Female,Group A,High School,Free/Reduced,Not Completed,82.5,23,75,94,81,250,83.33,Pass
+STU0503,Male,Group C,High School,Free/Reduced,Completed,92.7,16,81,97,100,278,92.67,Pass
+STU0504,Male,Group B,High School,Standard,Not Completed,96.4,14,91,64,75,230,76.67,Pass
+STU0505,Female,Group D,High School,Standard,Not Completed,97.0,12,69,81,72,222,74.0,Pass
+STU0506,Female,Group B,Some College,Free/Reduced,Completed,95.0,13,78,100,79,257,85.67,Pass
+STU0507,Female,Group C,Some High School,Standard,Completed,96.2,21,100,83,99,282,94.0,Pass
+STU0508,Male,Group D,Some College,Standard,Completed,100.0,11,72,91,100,263,87.67,Pass
+STU0509,Female,Group B,High School,Standard,Completed,83.7,14,71,77,88,236,78.67,Pass
+STU0510,Female,Group D,High School,Standard,Not Completed,88.5,15,64,87,70,221,73.67,Pass
+STU0511,Female,Group B,High School,Standard,Not Completed,90.3,23,89,83,83,255,85.0,Pass
+STU0512,Female,Group A,High School,Free/Reduced,Completed,94.7,14,71,80,97,248,82.67,Pass
+STU0513,Female,Group D,Associate's Degree,Free/Reduced,Not Completed,81.5,17,51,93,66,210,70.0,Pass
+STU0514,Female,Group E,Some High School,Standard,Completed,100.0,16,100,82,93,275,91.67,Pass
+STU0515,Female,Group E,Associate's Degree,Standard,Not Completed,93.6,20,76,94,95,265,88.33,Pass
+STU0516,Male,Group C,Bachelor's Degree,Free/Reduced,Completed,96.4,16,84,92,87,263,87.67,Pass
+STU0517,Female,Group B,Bachelor's Degree,Free/Reduced,Completed,97.8,22,89,100,86,275,91.67,Pass
+STU0518,Female,Group D,Some High School,Standard,Completed,99.7,15,77,91,88,256,85.33,Pass
+STU0519,Female,Group D,Master's Degree,Standard,Not Completed,96.5,12,54,85,81,220,73.33,Pass
+STU0520,Female,Group C,Bachelor's Degree,Free/Reduced,Completed,94.7,22,100,99,96,295,98.33,Pass
+STU0521,Male,Group C,Master's Degree,Free/Reduced,Not Completed,87.3,14,82,86,71,239,79.67,Pass
+STU0522,Male,Group D,Associate's Degree,Standard,Not Completed,93.1,14,74,73,73,220,73.33,Pass
+STU0523,Male,Group D,Some High School,Standard,Not Completed,87.3,17,61,65,78,204,68.0,Pass
+STU0524,Female,Group C,Some High School,Standard,Not Completed,83.0,17,67,77,84,228,76.0,Pass
+STU0525,Female,Group D,High School,Standard,Not Completed,79.9,11,56,67,93,216,72.0,Pass
+STU0526,Male,Group A,Some High School,Free/Reduced,Not Completed,98.4,12,58,76,50,184,61.33,Pass
+STU0527,Female,Group C,Associate's Degree,Standard,Completed,99.5,19,77,97,96,270,90.0,Pass
+STU0528,Female,Group D,Master's Degree,Free/Reduced,Completed,96.5,18,92,89,91,272,90.67,Pass
+STU0529,Male,Group B,Bachelor's Degree,Standard,Not Completed,84.0,14,88,99,73,260,86.67,Pass
+STU0530,Female,Group A,Some High School,Standard,Completed,86.9,8,72,75,77,224,74.67,Pass
+STU0531,Female,Group C,Some College,Standard,Not Completed,91.9,19,79,100,83,262,87.33,Pass
+STU0532,Male,Group A,Some High School,Free/Reduced,Not Completed,89.8,18,56,83,74,213,71.0,Pass
+STU0533,Male,Group C,Master's Degree,Standard,Not Completed,92.8,20,95,100,100,295,98.33,Pass
+STU0534,Male,Group D,Master's Degree,Standard,Not Completed,79.4,11,70,80,77,227,75.67,Pass
+STU0535,Male,Group C,Some High School,Free/Reduced,Not Completed,97.6,25,64,69,70,203,67.67,Pass
+STU0536,Female,Group C,Master's Degree,Free/Reduced,Completed,90.8,18,96,100,88,284,94.67,Pass
+STU0537,Male,Group B,Bachelor's Degree,Standard,Not Completed,80.6,19,95,81,96,272,90.67,Pass
+STU0538,Female,Group B,Some College,Free/Reduced,Completed,80.1,18,81,100,100,281,93.67,Pass
+STU0539,Female,Group B,Master's Degree,Standard,Not Completed,89.2,19,85,93,100,278,92.67,Pass
+STU0540,Male,Group D,Some High School,Standard,Completed,88.8,12,80,88,67,235,78.33,Pass
+STU0541,Female,Group C,High School,Standard,Not Completed,95.6,13,81,84,80,245,81.67,Pass
+STU0542,Female,Group B,Bachelor's Degree,Standard,Not Completed,97.6,18,100,90,100,290,96.67,Pass
+STU0543,Female,Group C,Bachelor's Degree,Free/Reduced,Not Completed,90.9,16,83,81,81,245,81.67,Pass
+STU0544,Male,Group B,Master's Degree,Standard,Not Completed,96.8,19,72,85,82,239,79.67,Pass
+STU0545,Female,Group E,Some High School,Free/Reduced,Completed,90.3,14,90,61,73,224,74.67,Pass
+STU0546,Male,Group D,High School,Free/Reduced,Not Completed,93.6,14,65,70,76,211,70.33,Pass
+STU0547,Male,Group C,Associate's Degree,Standard,Not Completed,96.8,20,91,82,77,250,83.33,Pass
+STU0548,Female,Group D,Master's Degree,Free/Reduced,Not Completed,85.2,20,63,74,83,220,73.33,Pass
+STU0549,Male,Group B,Bachelor's Degree,Standard,Not Completed,90.7,16,89,100,56,245,81.67,Pass
+STU0550,Male,Group E,Master's Degree,Standard,Completed,100.0,25,100,96,98,294,98.0,Pass
+STU0551,Male,Group C,Bachelor's Degree,Standard,Not Completed,96.6,16,71,80,69,220,73.33,Pass
+STU0552,Male,Group D,Master's Degree,Free/Reduced,Not Completed,94.0,11,54,94,68,216,72.0,Pass
+STU0553,Female,Group B,Master's Degree,Standard,Not Completed,94.6,13,90,100,83,273,91.0,Pass
+STU0554,Male,Group D,Master's Degree,Free/Reduced,Not Completed,92.7,20,84,98,82,264,88.0,Pass
+STU0555,Female,Group C,Some High School,Standard,Not Completed,95.3,20,85,75,100,260,86.67,Pass
+STU0556,Female,Group D,Master's Degree,Standard,Not Completed,86.8,11,68,77,88,233,77.67,Pass
+STU0557,Female,Group D,High School,Standard,Not Completed,86.7,21,100,100,81,281,93.67,Pass
+STU0558,Female,Group A,High School,Free/Reduced,Not Completed,70.6,12,77,80,76,233,77.67,Pass
+STU0559,Male,Group D,Master's Degree,Standard,Not Completed,99.0,20,77,90,85,252,84.0,Pass
+STU0560,Female,Group E,Associate's Degree,Free/Reduced,Not Completed,84.1,17,74,68,76,218,72.67,Pass
+STU0561,Female,Group E,Associate's Degree,Free/Reduced,Not Completed,88.4,8,81,87,100,268,89.33,Pass
+STU0562,Male,Group D,Bachelor's Degree,Standard,Completed,97.8,19,100,100,71,271,90.33,Pass
+STU0563,Female,Group E,Bachelor's Degree,Standard,Not Completed,99.0,14,71,92,73,236,78.67,Pass
+STU0564,Male,Group C,Some College,Standard,Not Completed,100.0,18,75,87,71,233,77.67,Pass
+STU0565,Female,Group D,Bachelor's Degree,Standard,Not Completed,93.3,25,84,89,100,273,91.0,Pass
+STU0566,Male,Group C,High School,Standard,Not Completed,90.3,17,97,62,62,221,73.67,Pass
+STU0567,Female,Group D,Some College,Free/Reduced,Not Completed,82.1,13,78,54,73,205,68.33,Pass
+STU0568,Female,Group E,High School,Free/Reduced,Completed,85.7,18,87,76,71,234,78.0,Pass
+STU0569,Female,Group B,Bachelor's Degree,Free/Reduced,Not Completed,79.9,11,78,81,70,229,76.33,Pass
+STU0570,Female,Group D,Master's Degree,Free/Reduced,Not Completed,99.2,18,100,100,90,290,96.67,Pass
+STU0571,Male,Group D,Master's Degree,Standard,Not Completed,90.8,19,76,89,95,260,86.67,Pass
+STU0572,Male,Group C,Some College,Standard,Not Completed,85.1,12,66,83,58,207,69.0,Pass
+STU0573,Female,Group E,Some College,Free/Reduced,Completed,91.7,17,91,91,80,262,87.33,Pass
+STU0574,Male,Group C,High School,Free/Reduced,Not Completed,99.2,16,78,92,79,249,83.0,Pass
+STU0575,Female,Group E,Master's Degree,Standard,Completed,98.6,25,89,100,96,285,95.0,Pass
+STU0576,Female,Group A,Master's Degree,Standard,Not Completed,87.4,12,77,50,96,223,74.33,Pass
+STU0577,Male,Group C,Some College,Standard,Not Completed,84.5,17,77,87,88,252,84.0,Pass
+STU0578,Male,Group A,Associate's Degree,Free/Reduced,Not Completed,82.3,14,82,86,80,248,82.67,Pass
+STU0579,Male,Group B,Bachelor's Degree,Standard,Completed,89.0,20,100,100,97,297,99.0,Pass
+STU0580,Male,Group B,Master's Degree,Standard,Completed,91.4,25,93,98,78,269,89.67,Pass
+STU0581,Female,Group E,Master's Degree,Free/Reduced,Not Completed,92.1,8,78,59,78,215,71.67,Pass
+STU0582,Male,Group A,Bachelor's Degree,Standard,Completed,89.2,20,100,100,100,300,100.0,Pass
+STU0583,Female,Group C,Bachelor's Degree,Free/Reduced,Not Completed,82.4,19,77,90,57,224,74.67,Pass
+STU0584,Female,Group C,Master's Degree,Standard,Not Completed,86.8,14,69,95,79,243,81.0,Pass
+STU0585,Female,Group B,Some High School,Standard,Completed,85.8,15,98,94,84,276,92.0,Pass
+STU0586,Male,Group A,Some High School,Standard,Not Completed,90.4,19,66,86,94,246,82.0,Pass
+STU0587,Male,Group E,High School,Free/Reduced,Not Completed,96.2,19,73,79,88,240,80.0,Pass
+STU0588,Female,Group B,Some High School,Standard,Not Completed,84.3,11,91,69,78,238,79.33,Pass
+STU0589,Female,Group A,Some High School,Standard,Completed,100.0,20,72,100,100,272,90.67,Pass
+STU0590,Male,Group A,Master's Degree,Standard,Not Completed,96.8,17,69,92,72,233,77.67,Pass
+STU0591,Male,Group A,Some High School,Standard,Completed,97.4,20,96,100,86,282,94.0,Pass
+STU0592,Male,Group B,Some High School,Free/Reduced,Not Completed,100.0,12,73,71,57,201,67.0,Pass
+STU0593,Male,Group D,Master's Degree,Free/Reduced,Completed,87.5,19,81,84,68,233,77.67,Pass
+STU0594,Female,Group E,High School,Free/Reduced,Not Completed,100.0,18,87,76,91,254,84.67,Pass
+STU0595,Female,Group B,Some High School,Free/Reduced,Completed,79.6,11,89,77,65,231,77.0,Pass
+STU0596,Female,Group C,Some High School,Standard,Completed,85.2,20,59,85,94,238,79.33,Pass
+STU0597,Female,Group A,Master's Degree,Standard,Not Completed,99.8,17,98,84,96,278,92.67,Pass
+STU0598,Female,Group B,Some High School,Standard,Not Completed,98.2,15,66,74,78,218,72.67,Pass
+STU0599,Female,Group C,High School,Free/Reduced,Not Completed,97.7,19,84,72,83,239,79.67,Pass
+STU0600,Male,Group A,Associate's Degree,Standard,Completed,87.4,24,98,100,100,298,99.33,Pass
+STU0601,Male,Group C,High School,Standard,Not Completed,86.6,12,83,84,56,223,74.33,Pass
+STU0602,Female,Group C,Bachelor's Degree,Standard,Completed,100.0,24,95,94,100,289,96.33,Pass
+STU0603,Female,Group A,Associate's Degree,Free/Reduced,Not Completed,91.8,20,84,75,81,240,80.0,Pass
+STU0604,Female,Group B,Some College,Standard,Not Completed,100.0,10,66,100,72,238,79.33,Pass
+STU0605,Male,Group A,Some High School,Free/Reduced,Completed,88.6,12,61,94,76,231,77.0,Pass
+STU0606,Male,Group B,Some High School,Standard,Not Completed,87.4,13,44,84,80,208,69.33,Pass
+STU0607,Female,Group A,Associate's Degree,Free/Reduced,Not Completed,89.7,9,42,59,69,170,56.67,Pass
+STU0608,Male,Group B,Some College,Standard,Completed,100.0,20,96,87,100,283,94.33,Pass
+STU0609,Female,Group C,Associate's Degree,Free/Reduced,Completed,84.1,14,87,100,80,267,89.0,Pass
+STU0610,Female,Group E,Master's Degree,Standard,Not Completed,84.6,15,91,96,90,277,92.33,Pass
+STU0611,Female,Group E,Master's Degree,Free/Reduced,Not Completed,96.2,13,67,68,84,219,73.0,Pass
+STU0612,Female,Group B,Some College,Standard,Not Completed,85.0,8,64,86,82,232,77.33,Pass
+STU0613,Male,Group E,Bachelor's Degree,Free/Reduced,Not Completed,84.8,8,83,69,61,213,71.0,Pass
+STU0614,Female,Group B,Associate's Degree,Standard,Not Completed,99.5,21,100,96,95,291,97.0,Pass
+STU0615,Female,Group B,Associate's Degree,Standard,Not Completed,90.4,17,65,93,97,255,85.0,Pass
+STU0616,Male,Group D,Master's Degree,Standard,Not Completed,100.0,16,97,94,100,291,97.0,Pass
+STU0617,Male,Group D,Bachelor's Degree,Standard,Completed,98.9,18,91,82,89,262,87.33,Pass
+STU0618,Female,Group C,High School,Free/Reduced,Not Completed,86.3,15,77,77,69,223,74.33,Pass
+STU0619,Male,Group D,High School,Standard,Not Completed,87.9,12,81,92,89,262,87.33,Pass
+STU0620,Female,Group B,Some High School,Standard,Not Completed,91.5,10,79,82,90,251,83.67,Pass
+STU0621,Female,Group C,Some College,Standard,Not Completed,91.2,21,86,90,100,276,92.0,Pass
+STU0622,Male,Group C,High School,Standard,Completed,96.2,16,86,89,76,251,83.67,Pass
+STU0623,Male,Group E,Master's Degree,Standard,Not Completed,88.5,21,80,75,92,247,82.33,Pass
+STU0624,Female,Group C,Some High School,Standard,Completed,88.1,17,88,100,97,285,95.0,Pass
+STU0625,Female,Group C,High School,Standard,Not Completed,90.9,9,84,82,80,246,82.0,Pass
+STU0626,Female,Group C,Associate's Degree,Standard,Completed,88.9,23,100,97,100,297,99.0,Pass
+STU0627,Male,Group E,Some High School,Standard,Completed,84.5,18,79,92,83,254,84.67,Pass
+STU0628,Male,Group B,Bachelor's Degree,Standard,Not Completed,81.2,9,100,71,75,246,82.0,Pass
+STU0629,Male,Group A,Some High School,Standard,Completed,93.8,14,81,72,91,244,81.33,Pass
+STU0630,Male,Group C,Bachelor's Degree,Standard,Completed,90.0,22,100,84,99,283,94.33,Pass
+STU0631,Female,Group A,Some High School,Standard,Not Completed,81.3,11,83,86,73,242,80.67,Pass
+STU0632,Female,Group A,Some High School,Free/Reduced,Not Completed,99.0,16,71,70,89,230,76.67,Pass
+STU0633,Male,Group C,Master's Degree,Free/Reduced,Completed,86.7,21,91,94,91,276,92.0,Pass
+STU0634,Female,Group C,Associate's Degree,Free/Reduced,Not Completed,94.7,20,88,62,96,246,82.0,Pass
+STU0635,Male,Group A,Some College,Standard,Not Completed,93.6,19,69,74,78,221,73.67,Pass
+STU0636,Male,Group C,Master's Degree,Free/Reduced,Not Completed,87.6,14,66,71,75,212,70.67,Pass
+STU0637,Female,Group A,High School,Standard,Not Completed,89.0,11,77,74,82,233,77.67,Pass
+STU0638,Female,Group E,Bachelor's Degree,Free/Reduced,Completed,98.6,22,80,94,82,256,85.33,Pass
+STU0639,Male,Group D,Some High School,Standard,Not Completed,91.9,18,76,77,48,201,67.0,Pass
+STU0640,Male,Group B,Master's Degree,Standard,Completed,96.5,25,100,100,87,287,95.67,Pass
+STU0641,Male,Group B,High School,Standard,Not Completed,78.2,12,88,83,70,241,80.33,Pass
+STU0642,Female,Group A,Master's Degree,Standard,Not Completed,94.0,16,92,100,97,289,96.33,Pass
+STU0643,Female,Group A,Bachelor's Degree,Standard,Completed,98.3,22,100,100,100,300,100.0,Pass
+STU0644,Male,Group C,High School,Free/Reduced,Completed,83.4,13,68,100,86,254,84.67,Pass
+STU0645,Female,Group E,High School,Free/Reduced,Completed,100.0,20,100,91,100,291,97.0,Pass
+STU0646,Male,Group C,Master's Degree,Standard,Not Completed,93.2,13,81,80,92,253,84.33,Pass
+STU0647,Female,Group E,High School,Standard,Completed,97.5,17,75,92,88,255,85.0,Pass
+STU0648,Female,Group A,Some College,Standard,Not Completed,81.4,19,85,76,65,226,75.33,Pass
+STU0649,Female,Group E,Associate's Degree,Standard,Completed,94.3,20,100,88,96,284,94.67,Pass
+STU0650,Male,Group A,Associate's Degree,Standard,Completed,93.9,17,95,84,100,279,93.0,Pass
+STU0651,Female,Group B,Some High School,Standard,Not Completed,100.0,17,73,88,73,234,78.0,Pass
+STU0652,Male,Group D,Some College,Standard,Not Completed,85.4,19,89,82,99,270,90.0,Pass
+STU0653,Female,Group A,Some College,Standard,Not Completed,90.2,17,79,64,83,226,75.33,Pass
+STU0654,Female,Group D,Bachelor's Degree,Free/Reduced,Not Completed,88.3,16,75,99,92,266,88.67,Pass
+STU0655,Male,Group D,High School,Standard,Not Completed,87.8,10,77,63,90,230,76.67,Pass
+STU0656,Male,Group A,Associate's Degree,Standard,Completed,90.4,20,94,100,100,294,98.0,Pass
+STU0657,Male,Group B,Associate's Degree,Standard,Not Completed,95.5,11,66,77,65,208,69.33,Pass
+STU0658,Male,Group D,Bachelor's Degree,Free/Reduced,Not Completed,83.7,14,85,95,73,253,84.33,Pass
+STU0659,Male,Group C,Some College,Standard,Not Completed,96.1,19,90,75,86,251,83.67,Pass
+STU0660,Male,Group A,Associate's Degree,Standard,Not Completed,82.7,11,89,79,90,258,86.0,Pass
+STU0661,Female,Group A,Some College,Standard,Not Completed,89.6,15,72,74,73,219,73.0,Pass
+STU0662,Female,Group D,Bachelor's Degree,Standard,Not Completed,85.6,17,79,98,96,273,91.0,Pass
+STU0663,Female,Group C,Associate's Degree,Standard,Completed,98.4,17,85,100,77,262,87.33,Pass
+STU0664,Female,Group E,High School,Standard,Not Completed,96.6,15,77,84,100,261,87.0,Pass
+STU0665,Female,Group E,Some High School,Standard,Not Completed,84.8,10,60,79,94,233,77.67,Pass
+STU0666,Male,Group D,Master's Degree,Standard,Not Completed,85.0,21,96,72,92,260,86.67,Pass
+STU0667,Female,Group A,Master's Degree,Free/Reduced,Completed,88.7,17,100,89,69,258,86.0,Pass
+STU0668,Male,Group E,Master's Degree,Standard,Not Completed,89.2,19,91,100,100,291,97.0,Pass
+STU0669,Male,Group D,Associate's Degree,Standard,Completed,94.5,22,77,100,91,268,89.33,Pass
+STU0670,Female,Group D,High School,Standard,Not Completed,89.1,12,96,63,81,240,80.0,Pass
+STU0671,Male,Group D,Master's Degree,Free/Reduced,Not Completed,91.6,15,81,74,64,219,73.0,Pass
+STU0672,Female,Group D,Some High School,Standard,Completed,88.7,17,96,100,100,296,98.67,Pass
+STU0673,Male,Group A,Associate's Degree,Free/Reduced,Completed,94.0,19,86,67,68,221,73.67,Pass
+STU0674,Male,Group D,Some High School,Standard,Not Completed,91.2,13,64,69,69,202,67.33,Pass
+STU0675,Female,Group D,High School,Standard,Not Completed,90.3,19,78,97,73,248,82.67,Pass
+STU0676,Female,Group C,Bachelor's Degree,Standard,Completed,100.0,21,95,100,100,295,98.33,Pass
+STU0677,Male,Group C,Some High School,Standard,Completed,96.3,25,96,95,100,291,97.0,Pass
+STU0678,Male,Group E,Associate's Degree,Standard,Completed,83.1,17,100,100,100,300,100.0,Pass
+STU0679,Male,Group D,Some High School,Free/Reduced,Not Completed,90.1,17,91,87,73,251,83.67,Pass
+STU0680,Female,Group D,Master's Degree,Standard,Completed,86.1,23,81,100,100,281,93.67,Pass
+STU0681,Male,Group D,Master's Degree,Standard,Completed,78.6,19,100,78,89,267,89.0,Pass
+STU0682,Male,Group D,Bachelor's Degree,Free/Reduced,Not Completed,83.8,11,90,79,58,227,75.67,Pass
+STU0683,Female,Group D,Master's Degree,Standard,Not Completed,85.9,15,88,89,58,235,78.33,Pass
+STU0684,Female,Group E,Master's Degree,Standard,Completed,79.0,19,100,100,100,300,100.0,Pass
+STU0685,Male,Group C,High School,Standard,Not Completed,92.3,11,81,65,76,222,74.0,Pass
+STU0686,Female,Group A,Associate's Degree,Standard,Completed,95.2,20,100,91,100,291,97.0,Pass
+STU0687,Female,Group C,High School,Free/Reduced,Not Completed,82.4,13,78,65,69,212,70.67,Pass
+STU0688,Female,Group B,Some College,Standard,Not Completed,98.8,15,99,57,66,222,74.0,Pass
+STU0689,Male,Group B,Associate's Degree,Standard,Completed,99.2,30,100,100,100,300,100.0,Pass
+STU0690,Male,Group A,Some High School,Standard,Completed,100.0,24,93,100,100,293,97.67,Pass
+STU0691,Male,Group E,Some College,Standard,Not Completed,98.8,25,78,95,76,249,83.0,Pass
+STU0692,Female,Group A,Some College,Standard,Not Completed,98.8,13,78,100,100,278,92.67,Pass
+STU0693,Female,Group E,High School,Standard,Not Completed,87.1,22,87,91,79,257,85.67,Pass
+STU0694,Female,Group C,Some High School,Free/Reduced,Not Completed,94.4,13,69,67,84,220,73.33,Pass
+STU0695,Male,Group E,Some College,Standard,Not Completed,100.0,20,57,91,63,211,70.33,Pass
+STU0696,Male,Group A,High School,Standard,Not Completed,93.3,11,76,74,62,212,70.67,Pass
+STU0697,Male,Group A,Associate's Degree,Standard,Completed,90.7,15,100,76,93,269,89.67,Pass
+STU0698,Male,Group B,High School,Free/Reduced,Completed,82.4,18,73,93,100,266,88.67,Pass
+STU0699,Female,Group E,Bachelor's Degree,Standard,Completed,100.0,21,100,100,99,299,99.67,Pass
+STU0700,Female,Group D,Some College,Standard,Completed,98.4,31,97,100,100,297,99.0,Pass
+STU0701,Male,Group D,Master's Degree,Free/Reduced,Not Completed,95.0,26,71,69,80,220,73.33,Pass
+STU0702,Female,Group B,Some High School,Free/Reduced,Not Completed,94.8,19,56,64,75,195,65.0,Pass
+STU0703,Female,Group D,Some College,Standard,Completed,90.3,21,98,93,100,291,97.0,Pass
+STU0704,Female,Group A,Some College,Standard,Not Completed,91.1,13,69,80,78,227,75.67,Pass
+STU0705,Female,Group C,Bachelor's Degree,Standard,Not Completed,93.3,15,80,86,80,246,82.0,Pass
+STU0706,Female,Group D,Master's Degree,Standard,Not Completed,87.6,19,97,92,100,289,96.33,Pass
+STU0707,Female,Group D,Bachelor's Degree,Standard,Not Completed,97.1,16,98,83,95,276,92.0,Pass
+STU0708,Male,Group B,Bachelor's Degree,Standard,Not Completed,77.8,19,74,74,82,230,76.67,Pass
+STU0709,Male,Group A,Associate's Degree,Free/Reduced,Not Completed,94.6,14,88,86,87,261,87.0,Pass
+STU0710,Female,Group B,Associate's Degree,Standard,Not Completed,90.4,20,73,84,70,227,75.67,Pass
+STU0711,Male,Group E,Some College,Standard,Completed,88.2,21,100,100,92,292,97.33,Pass
+STU0712,Male,Group E,Some High School,Standard,Not Completed,95.5,20,93,77,60,230,76.67,Pass
+STU0713,Male,Group C,Bachelor's Degree,Free/Reduced,Not Completed,73.2,12,62,58,76,196,65.33,Pass
+STU0714,Female,Group A,Some High School,Free/Reduced,Not Completed,97.3,15,75,82,84,241,80.33,Pass
+STU0715,Female,Group A,Some College,Free/Reduced,Not Completed,90.7,13,89,67,66,222,74.0,Pass
+STU0716,Female,Group D,Bachelor's Degree,Standard,Not Completed,94.7,19,77,89,97,263,87.67,Pass
+STU0717,Male,Group D,Associate's Degree,Free/Reduced,Not Completed,86.6,11,57,76,58,191,63.67,Pass
+STU0718,Male,Group B,Master's Degree,Standard,Not Completed,82.7,15,74,84,97,255,85.0,Pass
+STU0719,Male,Group A,Associate's Degree,Standard,Completed,92.2,15,100,100,79,279,93.0,Pass
+STU0720,Female,Group E,Master's Degree,Standard,Not Completed,96.4,18,73,98,99,270,90.0,Pass
+STU0721,Male,Group D,Master's Degree,Free/Reduced,Not Completed,89.0,5,75,82,69,226,75.33,Pass
+STU0722,Male,Group B,High School,Standard,Not Completed,94.6,13,83,89,75,247,82.33,Pass
+STU0723,Female,Group E,Some High School,Free/Reduced,Not Completed,98.9,13,83,95,57,235,78.33,Pass
+STU0724,Male,Group D,Some High School,Standard,Not Completed,90.4,14,84,73,84,241,80.33,Pass
+STU0725,Female,Group E,Some College,Free/Reduced,Completed,86.1,21,91,94,100,285,95.0,Pass
+STU0726,Female,Group A,Bachelor's Degree,Standard,Completed,97.9,18,100,95,100,295,98.33,Pass
+STU0727,Female,Group B,Some College,Standard,Not Completed,91.6,12,77,77,77,231,77.0,Pass
+STU0728,Female,Group A,High School,Standard,Not Completed,89.4,12,64,81,69,214,71.33,Pass
+STU0729,Female,Group A,Some College,Standard,Completed,97.8,16,100,100,91,291,97.0,Pass
+STU0730,Male,Group D,Associate's Degree,Free/Reduced,Completed,81.8,19,83,100,81,264,88.0,Pass
+STU0731,Female,Group E,Some High School,Standard,Not Completed,90.4,17,96,88,74,258,86.0,Pass
+STU0732,Female,Group E,Some College,Standard,Completed,86.0,15,65,91,84,240,80.0,Pass
+STU0733,Male,Group A,Some College,Free/Reduced,Not Completed,96.1,17,62,64,67,193,64.33,Pass
+STU0734,Male,Group C,Master's Degree,Standard,Not Completed,89.0,14,86,78,98,262,87.33,Pass
+STU0735,Female,Group E,Bachelor's Degree,Standard,Not Completed,86.7,13,81,79,100,260,86.67,Pass
+STU0736,Male,Group B,Some College,Free/Reduced,Completed,93.4,19,91,82,99,272,90.67,Pass
+STU0737,Male,Group A,Some High School,Free/Reduced,Completed,91.5,12,90,83,80,253,84.33,Pass
+STU0738,Female,Group C,Some College,Standard,Completed,92.3,26,80,99,90,269,89.67,Pass
+STU0739,Female,Group A,Some College,Standard,Not Completed,83.8,17,87,92,80,259,86.33,Pass
+STU0740,Male,Group B,Associate's Degree,Standard,Not Completed,87.9,17,69,66,73,208,69.33,Pass
+STU0741,Male,Group E,Associate's Degree,Standard,Completed,75.7,16,84,79,93,256,85.33,Pass
+STU0742,Male,Group D,High School,Free/Reduced,Not Completed,81.4,18,67,71,71,209,69.67,Pass
+STU0743,Female,Group E,Some College,Free/Reduced,Not Completed,87.9,16,68,85,74,227,75.67,Pass
+STU0744,Male,Group C,Some College,Standard,Not Completed,97.5,16,99,64,95,258,86.0,Pass
+STU0745,Male,Group C,High School,Standard,Completed,93.7,24,96,98,84,278,92.67,Pass
+STU0746,Male,Group C,Associate's Degree,Standard,Completed,83.3,20,78,83,91,252,84.0,Pass
+STU0747,Male,Group D,High School,Free/Reduced,Not Completed,80.9,15,60,76,57,193,64.33,Pass
+STU0748,Male,Group C,Master's Degree,Standard,Not Completed,100.0,21,93,96,81,270,90.0,Pass
+STU0749,Female,Group E,Some High School,Standard,Not Completed,88.2,13,67,75,55,197,65.67,Pass
+STU0750,Female,Group E,High School,Free/Reduced,Not Completed,93.4,15,93,83,64,240,80.0,Pass
+STU0751,Female,Group E,Bachelor's Degree,Standard,Not Completed,88.0,8,74,88,96,258,86.0,Pass
+STU0752,Male,Group C,Some High School,Standard,Not Completed,91.8,15,82,80,81,243,81.0,Pass
+STU0753,Male,Group D,Master's Degree,Standard,Not Completed,92.2,17,97,93,81,271,90.33,Pass
+STU0754,Male,Group C,Associate's Degree,Free/Reduced,Completed,97.0,21,94,88,86,268,89.33,Pass
+STU0755,Male,Group A,Some College,Standard,Not Completed,93.3,13,72,87,86,245,81.67,Pass
+STU0756,Female,Group B,Bachelor's Degree,Free/Reduced,Not Completed,82.8,13,70,86,69,225,75.0,Pass
+STU0757,Female,Group C,Bachelor's Degree,Free/Reduced,Completed,88.4,15,99,86,100,285,95.0,Pass
+STU0758,Male,Group B,Some High School,Standard,Completed,90.9,19,98,75,51,224,74.67,Pass
+STU0759,Female,Group E,Bachelor's Degree,Standard,Not Completed,89.9,16,100,97,98,295,98.33,Pass
+STU0760,Male,Group D,High School,Standard,Completed,85.1,13,99,82,90,271,90.33,Pass
+STU0761,Male,Group C,High School,Free/Reduced,Not Completed,100.0,16,62,100,91,253,84.33,Pass
+STU0762,Male,Group A,Some High School,Free/Reduced,Not Completed,100.0,20,66,82,63,211,70.33,Pass
+STU0763,Female,Group E,Some High School,Free/Reduced,Completed,91.1,15,92,83,77,252,84.0,Pass
+STU0764,Female,Group A,Associate's Degree,Standard,Not Completed,100.0,14,83,87,70,240,80.0,Pass
+STU0765,Male,Group B,Some High School,Free/Reduced,Not Completed,85.7,15,100,70,82,252,84.0,Pass
+STU0766,Female,Group A,High School,Free/Reduced,Not Completed,94.0,15,78,69,77,224,74.67,Pass
+STU0767,Female,Group E,Master's Degree,Free/Reduced,Not Completed,92.2,17,89,88,78,255,85.0,Pass
+STU0768,Male,Group B,Master's Degree,Standard,Completed,87.7,19,81,90,75,246,82.0,Pass
+STU0769,Female,Group D,Master's Degree,Free/Reduced,Completed,88.2,22,100,88,100,288,96.0,Pass
+STU0770,Male,Group C,Bachelor's Degree,Free/Reduced,Completed,94.0,23,100,89,100,289,96.33,Pass
+STU0771,Female,Group D,High School,Standard,Completed,74.7,23,89,100,100,289,96.33,Pass
+STU0772,Female,Group B,Some College,Standard,Not Completed,95.7,14,88,90,72,250,83.33,Pass
+STU0773,Male,Group C,High School,Standard,Not Completed,91.4,14,65,96,93,254,84.67,Pass
+STU0774,Male,Group A,Master's Degree,Standard,Not Completed,100.0,15,82,74,100,256,85.33,Pass
+STU0775,Female,Group B,Some High School,Free/Reduced,Not Completed,97.4,12,87,81,67,235,78.33,Pass
+STU0776,Male,Group D,Some High School,Standard,Not Completed,96.7,13,60,72,68,200,66.67,Pass
+STU0777,Male,Group D,Bachelor's Degree,Standard,Not Completed,89.3,24,79,96,91,266,88.67,Pass
+STU0778,Female,Group E,High School,Free/Reduced,Not Completed,83.9,15,68,57,75,200,66.67,Pass
+STU0779,Female,Group B,High School,Free/Reduced,Not Completed,95.2,12,89,69,66,224,74.67,Pass
+STU0780,Female,Group B,Associate's Degree,Standard,Not Completed,93.0,24,88,77,83,248,82.67,Pass
+STU0781,Female,Group B,Bachelor's Degree,Free/Reduced,Not Completed,93.6,19,99,84,89,272,90.67,Pass
+STU0782,Female,Group D,Master's Degree,Free/Reduced,Not Completed,86.3,17,57,74,80,211,70.33,Pass
+STU0783,Male,Group D,Some College,Standard,Not Completed,88.9,17,81,85,82,248,82.67,Pass
+STU0784,Female,Group B,Associate's Degree,Free/Reduced,Completed,86.8,20,100,93,99,292,97.33,Pass
+STU0785,Female,Group C,Some High School,Standard,Not Completed,94.4,17,84,96,84,264,88.0,Pass
+STU0786,Female,Group B,High School,Standard,Not Completed,88.9,13,81,83,72,236,78.67,Pass
+STU0787,Female,Group A,High School,Free/Reduced,Completed,94.1,22,71,100,100,271,90.33,Pass
+STU0788,Male,Group D,High School,Standard,Not Completed,96.2,21,94,90,67,251,83.67,Pass
+STU0789,Male,Group A,Some High School,Standard,Completed,87.5,19,79,99,63,241,80.33,Pass
+STU0790,Female,Group A,Bachelor's Degree,Standard,Completed,88.6,14,99,97,100,296,98.67,Pass
+STU0791,Male,Group B,Bachelor's Degree,Free/Reduced,Completed,94.6,20,76,100,100,276,92.0,Pass
+STU0792,Male,Group D,Bachelor's Degree,Standard,Not Completed,84.6,19,98,86,72,256,85.33,Pass
+STU0793,Male,Group E,Associate's Degree,Standard,Completed,87.6,18,100,87,92,279,93.0,Pass
+STU0794,Male,Group D,Bachelor's Degree,Standard,Completed,93.1,23,100,100,91,291,97.0,Pass
+STU0795,Male,Group B,Bachelor's Degree,Standard,Not Completed,96.1,15,75,94,77,246,82.0,Pass
+STU0796,Female,Group B,Associate's Degree,Standard,Completed,90.3,20,97,100,87,284,94.67,Pass
+STU0797,Female,Group C,High School,Standard,Not Completed,91.8,17,81,91,76,248,82.67,Pass
+STU0798,Male,Group B,Master's Degree,Standard,Not Completed,99.9,24,78,89,90,257,85.67,Pass
+STU0799,Male,Group C,Some College,Free/Reduced,Not Completed,92.8,10,64,66,53,183,61.0,Pass
+STU0800,Female,Group D,High School,Standard,Completed,83.5,18,88,94,73,255,85.0,Pass
+STU0801,Male,Group C,Some High School,Standard,Not Completed,80.0,15,76,88,63,227,75.67,Pass
+STU0802,Female,Group C,Master's Degree,Standard,Completed,94.6,19,88,87,100,275,91.67,Pass
+STU0803,Male,Group E,Some College,Standard,Not Completed,76.9,18,95,100,70,265,88.33,Pass
+STU0804,Male,Group D,High School,Free/Reduced,Not Completed,85.6,18,80,62,96,238,79.33,Pass
+STU0805,Male,Group A,High School,Standard,Not Completed,94.0,20,73,85,100,258,86.0,Pass
+STU0806,Male,Group B,High School,Standard,Not Completed,85.6,19,80,91,78,249,83.0,Pass
+STU0807,Male,Group D,High School,Free/Reduced,Not Completed,92.5,8,46,86,72,204,68.0,Pass
+STU0808,Male,Group D,Master's Degree,Free/Reduced,Not Completed,88.2,23,79,93,100,272,90.67,Pass
+STU0809,Male,Group C,High School,Standard,Not Completed,93.8,18,84,70,98,252,84.0,Pass
+STU0810,Male,Group D,Bachelor's Degree,Standard,Not Completed,80.4,13,58,71,97,226,75.33,Pass
+STU0811,Male,Group D,Bachelor's Degree,Free/Reduced,Completed,92.9,17,81,87,79,247,82.33,Pass
+STU0812,Female,Group D,Master's Degree,Free/Reduced,Not Completed,95.2,19,76,81,81,238,79.33,Pass
+STU0813,Female,Group B,Associate's Degree,Standard,Completed,97.1,22,97,88,100,285,95.0,Pass
+STU0814,Female,Group C,High School,Standard,Not Completed,97.0,10,82,78,68,228,76.0,Pass
+STU0815,Male,Group B,Associate's Degree,Standard,Not Completed,87.0,16,73,73,75,221,73.67,Pass
+STU0816,Female,Group D,High School,Standard,Not Completed,96.6,15,97,76,78,251,83.67,Pass
+STU0817,Female,Group E,Master's Degree,Standard,Not Completed,81.5,18,89,96,89,274,91.33,Pass
+STU0818,Female,Group D,Master's Degree,Standard,Not Completed,82.1,19,81,85,85,251,83.67,Pass
+STU0819,Male,Group D,Some High School,Standard,Not Completed,92.2,13,75,100,75,250,83.33,Pass
+STU0820,Female,Group A,Some College,Free/Reduced,Completed,100.0,18,100,100,100,300,100.0,Pass
+STU0821,Female,Group B,Some High School,Standard,Not Completed,96.2,12,78,86,55,219,73.0,Pass
+STU0822,Female,Group B,High School,Standard,Not Completed,98.2,12,78,87,81,246,82.0,Pass
+STU0823,Female,Group A,Master's Degree,Free/Reduced,Completed,93.0,18,93,100,71,264,88.0,Pass
+STU0824,Female,Group E,Bachelor's Degree,Standard,Completed,74.7,14,68,87,78,233,77.67,Pass
+STU0825,Female,Group C,High School,Standard,Completed,100.0,15,78,94,82,254,84.67,Pass
+STU0826,Male,Group E,Master's Degree,Free/Reduced,Not Completed,88.5,12,74,98,78,250,83.33,Pass
+STU0827,Female,Group C,High School,Free/Reduced,Completed,88.4,15,73,91,89,253,84.33,Pass
+STU0828,Female,Group B,Master's Degree,Standard,Completed,92.8,23,89,100,100,289,96.33,Pass
+STU0829,Female,Group E,Associate's Degree,Standard,Not Completed,95.5,24,83,99,69,251,83.67,Pass
+STU0830,Female,Group B,Bachelor's Degree,Free/Reduced,Not Completed,92.9,13,93,94,88,275,91.67,Pass
+STU0831,Female,Group A,Master's Degree,Free/Reduced,Completed,95.2,21,74,92,100,266,88.67,Pass
+STU0832,Male,Group D,Some College,Standard,Not Completed,84.5,21,90,81,96,267,89.0,Pass
+STU0833,Female,Group C,Associate's Degree,Standard,Completed,93.6,18,79,100,96,275,91.67,Pass
+STU0834,Male,Group A,Associate's Degree,Standard,Not Completed,92.6,10,71,67,74,212,70.67,Pass
+STU0835,Female,Group C,Associate's Degree,Standard,Not Completed,95.5,13,86,86,78,250,83.33,Pass
+STU0836,Female,Group A,Some High School,Free/Reduced,Completed,86.1,17,89,75,91,255,85.0,Pass
+STU0837,Male,Group D,Associate's Degree,Standard,Completed,100.0,27,100,100,100,300,100.0,Pass
+STU0838,Male,Group C,Master's Degree,Standard,Completed,87.9,20,88,100,100,288,96.0,Pass
+STU0839,Male,Group B,High School,Standard,Completed,97.4,14,100,94,96,290,96.67,Pass
+STU0840,Female,Group C,High School,Standard,Completed,93.8,23,91,98,82,271,90.33,Pass
+STU0841,Male,Group D,Master's Degree,Standard,Completed,90.7,18,76,100,96,272,90.67,Pass
+STU0842,Male,Group E,Some College,Free/Reduced,Completed,100.0,21,81,100,100,281,93.67,Pass
+STU0843,Male,Group B,Some College,Free/Reduced,Completed,93.3,15,100,88,90,278,92.67,Pass
+STU0844,Male,Group E,Associate's Degree,Free/Reduced,Completed,94.2,18,98,90,81,269,89.67,Pass
+STU0845,Female,Group E,Some High School,Standard,Completed,93.7,19,98,100,93,291,97.0,Pass
+STU0846,Male,Group D,Master's Degree,Free/Reduced,Not Completed,91.9,24,82,94,88,264,88.0,Pass
+STU0847,Female,Group C,Some High School,Standard,Not Completed,86.9,14,92,85,93,270,90.0,Pass
+STU0848,Female,Group A,High School,Standard,Not Completed,74.7,15,50,77,50,177,59.0,Pass
+STU0849,Male,Group C,Bachelor's Degree,Standard,Not Completed,79.6,29,100,70,85,255,85.0,Pass
+STU0850,Female,Group C,Some College,Free/Reduced,Not Completed,92.9,11,64,89,56,209,69.67,Pass
+STU0851,Female,Group E,Some High School,Free/Reduced,Not Completed,77.1,11,53,79,62,194,64.67,Pass
+STU0852,Male,Group B,Some High School,Free/Reduced,Completed,89.7,13,77,81,82,240,80.0,Pass
+STU0853,Male,Group D,High School,Standard,Not Completed,87.5,13,48,88,100,236,78.67,Pass
+STU0854,Female,Group D,Some College,Standard,Completed,99.1,15,74,100,80,254,84.67,Pass
+STU0855,Female,Group B,Associate's Degree,Free/Reduced,Not Completed,81.5,12,75,69,70,214,71.33,Pass
+STU0856,Female,Group B,High School,Standard,Completed,90.6,19,83,95,93,271,90.33,Pass
+STU0857,Male,Group D,Some College,Standard,Not Completed,89.3,8,79,83,57,219,73.0,Pass
+STU0858,Female,Group C,High School,Free/Reduced,Completed,82.5,15,68,70,95,233,77.67,Pass
+STU0859,Male,Group E,Associate's Degree,Free/Reduced,Not Completed,92.3,16,93,89,93,275,91.67,Pass
+STU0860,Female,Group E,Some College,Standard,Not Completed,81.8,14,90,75,95,260,86.67,Pass
+STU0861,Female,Group D,Associate's Degree,Standard,Not Completed,78.7,13,59,77,82,218,72.67,Pass
+STU0862,Male,Group C,High School,Free/Reduced,Not Completed,92.7,17,90,82,80,252,84.0,Pass
+STU0863,Female,Group E,Some College,Standard,Completed,100.0,29,99,94,100,293,97.67,Pass
+STU0864,Male,Group A,Some College,Standard,Completed,98.8,15,69,99,100,268,89.33,Pass
+STU0865,Female,Group D,Master's Degree,Standard,Completed,79.8,16,100,94,87,281,93.67,Pass
+STU0866,Male,Group D,Associate's Degree,Standard,Completed,91.0,25,100,97,84,281,93.67,Pass
+STU0867,Female,Group B,Some College,Free/Reduced,Not Completed,78.9,17,69,65,81,215,71.67,Pass
+STU0868,Male,Group C,High School,Standard,Completed,95.2,20,100,81,100,281,93.67,Pass
+STU0869,Female,Group B,Associate's Degree,Free/Reduced,Not Completed,79.2,19,100,95,81,276,92.0,Pass
+STU0870,Male,Group E,Associate's Degree,Free/Reduced,Not Completed,89.0,16,77,80,88,245,81.67,Pass
+STU0871,Female,Group D,Master's Degree,Free/Reduced,Completed,97.1,23,100,90,93,283,94.33,Pass
+STU0872,Female,Group A,Some High School,Standard,Not Completed,84.6,11,59,89,78,226,75.33,Pass
+STU0873,Male,Group C,Master's Degree,Free/Reduced,Completed,99.2,21,88,90,91,269,89.67,Pass
+STU0874,Female,Group E,High School,Standard,Completed,81.8,18,99,92,77,268,89.33,Pass
+STU0875,Female,Group E,Bachelor's Degree,Standard,Completed,81.9,17,97,100,100,297,99.0,Pass
+STU0876,Female,Group A,Bachelor's Degree,Standard,Not Completed,100.0,23,96,93,93,282,94.0,Pass
+STU0877,Male,Group A,Some High School,Free/Reduced,Not Completed,94.2,10,43,85,78,206,68.67,Pass
+STU0878,Male,Group E,Associate's Degree,Standard,Not Completed,85.3,17,100,99,79,278,92.67,Pass
+STU0879,Female,Group A,Master's Degree,Free/Reduced,Not Completed,95.9,17,97,62,81,240,80.0,Pass
+STU0880,Male,Group C,High School,Free/Reduced,Not Completed,84.0,12,64,67,61,192,64.0,Pass
+STU0881,Male,Group A,Some College,Free/Reduced,Completed,95.0,19,82,86,78,246,82.0,Pass
+STU0882,Male,Group E,Master's Degree,Standard,Not Completed,95.4,13,100,80,100,280,93.33,Pass
+STU0883,Male,Group A,Bachelor's Degree,Standard,Not Completed,86.9,12,72,90,100,262,87.33,Pass
+STU0884,Male,Group B,High School,Standard,Not Completed,96.2,19,79,100,74,253,84.33,Pass
+STU0885,Female,Group B,Bachelor's Degree,Free/Reduced,Not Completed,84.4,18,61,80,93,234,78.0,Pass
+STU0886,Female,Group A,High School,Standard,Completed,95.0,15,100,83,75,258,86.0,Pass
+STU0887,Male,Group D,Bachelor's Degree,Standard,Not Completed,89.7,15,92,95,83,270,90.0,Pass
+STU0888,Male,Group B,Master's Degree,Standard,Completed,99.4,19,100,100,87,287,95.67,Pass
+STU0889,Male,Group D,Bachelor's Degree,Free/Reduced,Completed,87.3,21,100,75,84,259,86.33,Pass
+STU0890,Female,Group A,Some High School,Free/Reduced,Completed,92.3,18,87,87,74,248,82.67,Pass
+STU0891,Male,Group A,Associate's Degree,Free/Reduced,Completed,98.2,21,84,80,86,250,83.33,Pass
+STU0892,Female,Group E,High School,Free/Reduced,Completed,88.1,16,62,85,77,224,74.67,Pass
+STU0893,Female,Group E,Associate's Degree,Free/Reduced,Completed,87.1,21,89,96,100,285,95.0,Pass
+STU0894,Female,Group D,Associate's Degree,Standard,Not Completed,99.7,12,98,84,99,281,93.67,Pass
+STU0895,Female,Group C,Some College,Standard,Not Completed,92.9,22,64,100,100,264,88.0,Pass
+STU0896,Female,Group D,Bachelor's Degree,Free/Reduced,Not Completed,95.6,11,78,80,87,245,81.67,Pass
+STU0897,Male,Group B,Associate's Degree,Standard,Not Completed,90.1,15,73,83,89,245,81.67,Pass
+STU0898,Female,Group C,High School,Standard,Not Completed,82.2,18,94,71,78,243,81.0,Pass
+STU0899,Male,Group D,High School,Standard,Completed,95.3,27,94,94,94,282,94.0,Pass
+STU0900,Male,Group C,Some High School,Standard,Not Completed,81.3,17,77,77,86,240,80.0,Pass
+STU0901,Male,Group B,Some College,Free/Reduced,Completed,95.0,12,83,67,100,250,83.33,Pass
+STU0902,Female,Group B,High School,Standard,Not Completed,91.9,22,77,91,76,244,81.33,Pass
+STU0903,Female,Group D,Associate's Degree,Standard,Not Completed,85.9,17,88,94,85,267,89.0,Pass
+STU0904,Male,Group B,Master's Degree,Free/Reduced,Not Completed,89.6,22,62,83,71,216,72.0,Pass
+STU0905,Female,Group B,Bachelor's Degree,Standard,Not Completed,96.5,20,88,100,95,283,94.33,Pass
+STU0906,Female,Group A,Some High School,Standard,Not Completed,84.4,15,42,80,90,212,70.67,Pass
+STU0907,Female,Group E,Associate's Degree,Standard,Not Completed,95.6,16,74,95,85,254,84.67,Pass
+STU0908,Female,Group A,Some High School,Free/Reduced,Not Completed,88.8,15,80,65,68,213,71.0,Pass
+STU0909,Male,Group D,Some College,Standard,Not Completed,81.0,14,77,74,63,214,71.33,Pass
+STU0910,Male,Group B,Master's Degree,Standard,Not Completed,95.8,23,94,85,80,259,86.33,Pass
+STU0911,Female,Group E,Master's Degree,Free/Reduced,Not Completed,90.6,14,94,77,79,250,83.33,Pass
+STU0912,Female,Group E,Master's Degree,Standard,Not Completed,83.9,22,96,100,80,276,92.0,Pass
+STU0913,Male,Group C,Associate's Degree,Standard,Not Completed,91.7,12,49,78,80,207,69.0,Pass
+STU0914,Male,Group B,Some College,Standard,Not Completed,92.4,14,62,83,68,213,71.0,Pass
+STU0915,Female,Group B,Associate's Degree,Free/Reduced,Not Completed,83.5,15,72,84,82,238,79.33,Pass
+STU0916,Female,Group E,Associate's Degree,Standard,Completed,92.1,22,100,97,100,297,99.0,Pass
+STU0917,Female,Group B,High School,Standard,Not Completed,91.7,17,98,65,80,243,81.0,Pass
+STU0918,Female,Group B,Bachelor's Degree,Standard,Completed,83.5,28,77,93,100,270,90.0,Pass
+STU0919,Male,Group B,Associate's Degree,Free/Reduced,Not Completed,91.2,20,90,83,77,250,83.33,Pass
+STU0920,Male,Group A,Bachelor's Degree,Free/Reduced,Completed,98.4,16,86,93,75,254,84.67,Pass
+STU0921,Male,Group E,Bachelor's Degree,Standard,Not Completed,94.3,16,69,74,76,219,73.0,Pass
+STU0922,Male,Group C,High School,Free/Reduced,Not Completed,92.1,16,79,80,66,225,75.0,Pass
+STU0923,Male,Group B,Master's Degree,Standard,Not Completed,85.3,23,85,85,95,265,88.33,Pass
+STU0924,Male,Group D,Some High School,Free/Reduced,Not Completed,90.8,17,70,85,78,233,77.67,Pass
+STU0925,Female,Group A,Master's Degree,Free/Reduced,Not Completed,85.3,16,93,76,83,252,84.0,Pass
+STU0926,Female,Group E,Master's Degree,Free/Reduced,Completed,94.7,19,96,98,75,269,89.67,Pass
+STU0927,Female,Group C,Some College,Standard,Not Completed,87.8,13,75,81,96,252,84.0,Pass
+STU0928,Female,Group E,Associate's Degree,Standard,Completed,99.2,21,98,100,100,298,99.33,Pass
+STU0929,Female,Group D,Master's Degree,Free/Reduced,Completed,95.0,21,98,100,100,298,99.33,Pass
+STU0930,Male,Group A,Some College,Free/Reduced,Completed,97.4,16,77,97,100,274,91.33,Pass
+STU0931,Female,Group D,High School,Free/Reduced,Completed,85.8,14,85,76,73,234,78.0,Pass
+STU0932,Male,Group A,Some High School,Free/Reduced,Completed,91.4,17,76,93,92,261,87.0,Pass
+STU0933,Male,Group A,Some High School,Standard,Completed,94.0,18,96,93,82,271,90.33,Pass
+STU0934,Male,Group D,Master's Degree,Free/Reduced,Not Completed,88.9,18,75,100,72,247,82.33,Pass
+STU0935,Male,Group D,Bachelor's Degree,Standard,Not Completed,85.6,10,67,92,66,225,75.0,Pass
+STU0936,Female,Group A,High School,Standard,Not Completed,94.4,17,69,76,84,229,76.33,Pass
+STU0937,Female,Group A,Some College,Standard,Completed,88.5,20,70,100,73,243,81.0,Pass
+STU0938,Male,Group B,High School,Free/Reduced,Not Completed,99.2,11,94,71,60,225,75.0,Pass
+STU0939,Female,Group D,Some College,Standard,Not Completed,85.6,13,71,77,85,233,77.67,Pass
+STU0940,Female,Group A,Some High School,Standard,Completed,94.4,20,96,94,77,267,89.0,Pass
+STU0941,Male,Group D,Associate's Degree,Free/Reduced,Not Completed,88.8,14,77,80,64,221,73.67,Pass
+STU0942,Female,Group E,High School,Standard,Completed,83.9,14,61,67,81,209,69.67,Pass
+STU0943,Male,Group B,Associate's Degree,Free/Reduced,Not Completed,94.7,18,97,77,75,249,83.0,Pass
+STU0944,Male,Group B,Master's Degree,Free/Reduced,Not Completed,99.2,16,91,70,84,245,81.67,Pass
+STU0945,Male,Group D,High School,Standard,Not Completed,91.2,12,83,84,76,243,81.0,Pass
+STU0946,Female,Group C,High School,Standard,Not Completed,79.4,11,58,68,88,214,71.33,Pass
+STU0947,Female,Group B,Some College,Standard,Not Completed,100.0,28,88,96,100,284,94.67,Pass
+STU0948,Male,Group C,Associate's Degree,Standard,Not Completed,86.5,18,88,96,93,277,92.33,Pass
+STU0949,Male,Group D,Master's Degree,Standard,Not Completed,89.8,18,89,78,88,255,85.0,Pass
+STU0950,Female,Group B,Master's Degree,Standard,Completed,100.0,20,100,100,92,292,97.33,Pass
+STU0951,Female,Group B,Bachelor's Degree,Standard,Completed,77.8,15,78,100,89,267,89.0,Pass
+STU0952,Male,Group A,Master's Degree,Free/Reduced,Not Completed,93.9,19,98,92,85,275,91.67,Pass
+STU0953,Male,Group A,Some High School,Standard,Completed,82.2,8,79,78,86,243,81.0,Pass
+STU0954,Male,Group B,Some High School,Standard,Not Completed,93.9,16,81,83,69,233,77.67,Pass
+STU0955,Male,Group C,Associate's Degree,Free/Reduced,Not Completed,97.1,18,100,88,61,249,83.0,Pass
+STU0956,Female,Group D,Some College,Standard,Not Completed,91.3,21,89,78,95,262,87.33,Pass
+STU0957,Female,Group E,Master's Degree,Standard,Completed,83.7,19,98,100,89,287,95.67,Pass
+STU0958,Female,Group B,Associate's Degree,Free/Reduced,Completed,88.1,21,99,72,89,260,86.67,Pass
+STU0959,Female,Group A,High School,Free/Reduced,Completed,88.0,23,89,99,75,263,87.67,Pass
+STU0960,Male,Group B,Master's Degree,Free/Reduced,Not Completed,87.4,28,91,97,85,273,91.0,Pass
+STU0961,Female,Group C,Bachelor's Degree,Standard,Not Completed,98.8,11,75,96,85,256,85.33,Pass
+STU0962,Female,Group D,Some College,Standard,Not Completed,94.1,17,90,100,98,288,96.0,Pass
+STU0963,Male,Group D,Bachelor's Degree,Standard,Completed,94.4,21,100,96,100,296,98.67,Pass
+STU0964,Female,Group C,Associate's Degree,Standard,Not Completed,94.0,16,51,63,96,210,70.0,Pass
+STU0965,Male,Group A,Bachelor's Degree,Free/Reduced,Not Completed,96.9,21,77,82,100,259,86.33,Pass
+STU0966,Male,Group A,High School,Free/Reduced,Completed,84.7,16,80,88,64,232,77.33,Pass
+STU0967,Male,Group E,Master's Degree,Standard,Not Completed,88.7,19,56,99,92,247,82.33,Pass
+STU0968,Female,Group D,Master's Degree,Standard,Not Completed,87.3,19,93,100,82,275,91.67,Pass
+STU0969,Female,Group C,Some College,Standard,Completed,88.2,11,81,75,80,236,78.67,Pass
+STU0970,Male,Group E,Associate's Degree,Standard,Completed,95.5,21,100,93,98,291,97.0,Pass
+STU0971,Female,Group E,Associate's Degree,Standard,Completed,84.7,18,87,100,100,287,95.67,Pass
+STU0972,Female,Group A,Some High School,Standard,Not Completed,81.9,11,78,75,50,203,67.67,Pass
+STU0973,Female,Group D,Bachelor's Degree,Standard,Not Completed,97.0,16,89,100,86,275,91.67,Pass
+STU0974,Male,Group A,Some College,Free/Reduced,Completed,81.3,19,96,84,67,247,82.33,Pass
+STU0975,Female,Group C,High School,Standard,Not Completed,84.5,13,94,63,77,234,78.0,Pass
+STU0976,Male,Group A,Some High School,Standard,Completed,95.4,18,77,93,80,250,83.33,Pass
+STU0977,Female,Group E,Associate's Degree,Standard,Completed,100.0,22,100,84,97,281,93.67,Pass
+STU0978,Male,Group B,Associate's Degree,Free/Reduced,Not Completed,86.9,14,75,81,61,217,72.33,Pass
+STU0979,Male,Group C,Bachelor's Degree,Standard,Not Completed,92.0,18,100,92,95,287,95.67,Pass
+STU0980,Female,Group E,Associate's Degree,Standard,Completed,100.0,24,97,100,97,294,98.0,Pass
+STU0981,Female,Group C,High School,Standard,Not Completed,79.2,16,75,61,74,210,70.0,Pass
+STU0982,Female,Group E,Some High School,Standard,Completed,97.8,28,100,100,100,300,100.0,Pass
+STU0983,Female,Group D,Some College,Free/Reduced,Not Completed,98.8,20,69,91,80,240,80.0,Pass
+STU0984,Male,Group D,Some College,Standard,Not Completed,92.9,15,89,98,71,258,86.0,Pass
+STU0985,Female,Group A,Some College,Free/Reduced,Not Completed,83.0,11,80,89,81,250,83.33,Pass
+STU0986,Female,Group E,Some High School,Standard,Completed,92.1,17,99,94,91,284,94.67,Pass
+STU0987,Female,Group B,Some High School,Free/Reduced,Completed,97.8,16,94,85,80,259,86.33,Pass
+STU0988,Male,Group D,Bachelor's Degree,Free/Reduced,Completed,91.2,18,99,100,77,276,92.0,Pass
+STU0989,Male,Group A,Bachelor's Degree,Free/Reduced,Not Completed,94.6,17,79,74,67,220,73.33,Pass
+STU0990,Male,Group C,Bachelor's Degree,Standard,Not Completed,93.5,19,98,100,75,273,91.0,Pass
+STU0991,Male,Group B,Some High School,Free/Reduced,Not Completed,92.3,9,88,52,56,196,65.33,Pass
+STU0992,Female,Group B,Some College,Standard,Not Completed,90.5,16,89,80,90,259,86.33,Pass
+STU0993,Male,Group A,Some High School,Standard,Not Completed,95.2,12,82,56,65,203,67.67,Pass
+STU0994,Female,Group E,High School,Standard,Not Completed,78.7,13,55,77,72,204,68.0,Pass
+STU0995,Male,Group D,Some College,Free/Reduced,Not Completed,93.9,19,88,85,87,260,86.67,Pass
+STU0996,Male,Group E,Associate's Degree,Standard,Not Completed,100.0,19,88,88,85,261,87.0,Pass
+STU0997,Male,Group C,High School,Free/Reduced,Not Completed,83.5,21,89,81,77,247,82.33,Pass
+STU0998,Male,Group C,Some College,Standard,Not Completed,100.0,17,94,84,84,262,87.33,Pass
+STU0999,Male,Group D,Associate's Degree,Free/Reduced,Completed,96.3,20,88,92,91,271,90.33,Pass
+STU1000,Female,Group C,Master's Degree,Free/Reduced,Not Completed,99.3,16,92,94,68,254,84.67,Pass
